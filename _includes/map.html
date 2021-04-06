@@ -1,0 +1,204 @@
+<!-- section full -->
+
+<style>
+  :root {
+    --rotateX: 50deg;
+    --rotateZ: 0deg;
+
+    --background: #ffffff;
+    --dark: #202020;
+  }
+
+  #map {
+    position: relative;
+    width: 100%;
+    height: 50vw;
+    overflow: hidden;
+    perspective: 1000px;
+    transform-style: preserve-3d;
+  }
+
+  #view {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    transform-style: preserve-3d;
+    transform: rotateX(var(--rotateX)) rotateZ(var(--rotateZ));
+  }
+
+  #view > * {
+    position: absolute;
+    overflow: visible;
+  }
+
+  #plane {
+    position: absolute;
+    left: -1000px;
+    top: 0;
+    right: -1000px;
+    bottom: -1000px;
+    box-shadow: 0 0 50px #00000020;
+  }
+
+  #grid line {
+    stroke: lightblue;
+    stroke-width: 3;
+  }
+
+  #path {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  #path > path {
+    fill: none;
+    stroke: var(--dark);
+    stroke-width: 10;
+    stroke-dasharray: 3285.531;
+    stroke-linejoin: round;
+    animation: draw 3s linear forwards;
+  }
+
+  @keyframes draw {
+    0% {
+      stroke-dashoffset: 3285.531;
+    }
+    100% {
+      stroke-dashoffset: 0;
+    }
+  }
+
+  .dot > g {
+    transform: scale(0);
+    animation: grow 0.5s ease forwards;
+  }
+
+  .dot:nth-of-type(1) > g {
+    animation-delay: 0s;
+  }
+  .dot:nth-of-type(2) > g {
+    animation-delay: 0.25s;
+  }
+  .dot:nth-of-type(3) > g {
+    animation-delay: 0.5s;
+  }
+  .dot:nth-of-type(4) > g {
+    animation-delay: 0.75s;
+  }
+  .dot:nth-of-type(5) > g {
+    animation-delay: 1s;
+  }
+
+  @keyframes grow {
+    0% {
+      transform: scale(0);
+    }
+    50% {
+      transform: scale(2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .dot circle:first-child {
+    fill: var(--dark);
+  }
+
+  .dot circle:last-child {
+    fill: var(--background);
+  }
+
+  .pin {
+    width: 10vw;
+    transform-origin: top left;
+    transform: rotateX(calc(-1 * var(--rotateX)))
+      rotateZ(calc(-1 * var(--rotateZ))) translate(-50%, -100%);
+  }
+
+  #fish {
+    left: 30%;
+    top: 50%;
+  }
+  #virus {
+    left: 40%;
+    top: 30%;
+  }
+  #bird {
+    left: 50%;
+    top: 40%;
+  }
+  #brain {
+    left: 60%;
+    top: 60%;
+  }
+  #frog {
+    left: 70%;
+    top: 50%;
+  }
+
+  .pin > g {
+    opacity: 0;
+    animation: drop 0.5s ease forwards;
+  }
+
+  #fish > g {
+    animation-delay: 0.25s;
+  }
+  #virus > g {
+    animation-delay: 0.5s;
+  }
+  #bird > g {
+    animation-delay: 0.75s;
+  }
+  #brain > g {
+    animation-delay: 1s;
+  }
+  #frog > g {
+    animation-delay: 1.25s;
+  }
+
+  @keyframes drop {
+    0% {
+      opacity: 0;
+      transform: translateY(-100px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+
+<div id="map">
+  <div id="view">
+    <div id="plane"></div>
+    {% include map/grid.svg %} {% include map/path.svg %} {% include map/fish.svg
+    %} {% include map/virus.svg %} {% include map/bird.svg %} {% include
+    map/brain.svg %} {% include map/frog.svg %}
+  </div>
+</div>
+
+<script>
+  const element = document.querySelector("#map");
+
+  const resetView = () => {
+    element.style.setProperty("--rotateX", "45deg");
+    element.style.setProperty("--rotateZ", "0deg");
+  };
+
+  const rotateView = ({ currentTarget, clientX, clientY }) => {
+    const { left, top, width, height } = currentTarget.getBoundingClientRect();
+
+    const rotateX = 30 + 30 * ((clientY - top) / height);
+    const rotateZ = -10 + 20 * ((clientX - left) / width);
+
+    element.style.setProperty("--rotateX", rotateX + "deg");
+    element.style.setProperty("--rotateZ", rotateZ + "deg");
+  };
+
+  element.addEventListener("mousemove", rotateView);
+  element.addEventListener("mouseleave", resetView);
+</script>

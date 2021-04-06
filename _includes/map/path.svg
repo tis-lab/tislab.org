@@ -1,0 +1,48 @@
+<svg viewBox="-500 -500 1000 1000" id="path">
+  <path
+    d="
+      M -1000 0
+      L -200 0
+      L -100 -100
+      L 0 -50
+      L 100 50
+      L 200 0
+      L 1000 0
+    "
+  />
+
+  <g class="dot" transform="translate(-200,0)">
+    <g>
+      <circle cx="0" cy="0" r="10" />
+      <circle cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(-100,-100)">
+    <g>
+      <circle cx="0" cy="0" r="10" />
+      <circle cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(0,-50)">
+    <g>
+      <circle cx="0" cy="0" r="10" />
+      <circle cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(100,50)">
+    <g>
+      <circle cx="0" cy="0" r="10" />
+      <circle cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(200,0)">
+    <g>
+      <circle cx="0" cy="0" r="10" />
+      <circle cx="0" cy="0" r="5" />
+    </g>
+  </g>
+</svg>

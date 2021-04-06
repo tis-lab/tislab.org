@@ -6,9 +6,7 @@ title: Home
 
 <!-- section break -->
 
-<!-- section full -->
-
-{% include banner.html image="images/banner.png" %}
+{% include map.html %}
 
 <!-- section break -->
 
