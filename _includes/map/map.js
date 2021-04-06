@@ -24,7 +24,7 @@ const updateView = () => {
 
 resetView();
 
-const replayAnimation = () => {
+const replayAnimations = () => {
   const elements = document.querySelectorAll("*");
   for (const element of elements) element.style.animation = "none";
   window.requestAnimationFrame(() => {
@@ -34,4 +34,4 @@ const replayAnimation = () => {
 
 document.documentElement.addEventListener("mouseleave", resetView);
 document.documentElement.addEventListener("mousemove", rotateView);
-document.documentElement.addEventListener("mouseenter", replayAnimation);
+document.documentElement.addEventListener("mouseenter", replayAnimations);
