@@ -5,17 +5,8 @@
       stroke-width: 5;
       stroke-linejoin: round;
       opacity: 0;
-      animation: fade 2s ease forwards;
+      animation: fade 2s linear forwards;
       animation-delay: 1s;
-    }
-
-    @keyframes fade {
-      0% {
-        opacity: 0;
-      }
-      100% {
-        opacity: 1;
-      }
     }
 
     .red {
