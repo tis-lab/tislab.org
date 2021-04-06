@@ -2,11 +2,21 @@
 title: Home
 ---
 
-# Translational and Integrative Sciences Lab
+# Trans<wbr>lational and Inte<wbr>grative Sciences Lab
 
 <!-- section break -->
 
-{% include map.html %}
+<!-- section full -->
+
+<style>
+  iframe {
+    width: 100%;
+    height: min(300px, 50vw);
+    border: none;
+  }
+</style>
+  
+<iframe src="map" width="100%" height="300px"></iframe>
 
 <!-- section break -->
 

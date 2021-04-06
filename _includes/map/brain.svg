@@ -1,5 +1,10 @@
-<svg viewBox="-64 -64 128 128" id="brain" class="pin">
-  <g>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="-64 -64 128 128"
+  id="brain"
+  class="pin"
+>
+  <g class="drop">
     <path
       fill="#e91e63"
       transform="scale(0.25) translate(-192,-256)"
