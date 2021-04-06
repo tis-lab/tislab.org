@@ -11,8 +11,8 @@ const resetView = () => {
 const rotateView = ({ clientX, clientY }) => {
   const { left, top, width, height } = document.body.getBoundingClientRect();
 
-  rotateX = 60 + 20 * ((clientY - top) / height);
-  rotateZ = -10 + 20 * ((clientX - left) / width);
+  rotateX = 80 - 20 * ((clientY - top) / height);
+  rotateZ = 10 - 20 * ((clientX - left) / width);
 
   updateView();
 };

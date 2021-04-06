@@ -10,6 +10,7 @@ layout:
 <div id="map">
   <div id="view">
     {% include map/grid.svg %}
+    {% include map/lines.svg %}
     {% include map/path.svg %}
     {% include map/fish.svg %}
     {% include map/virus.svg %}

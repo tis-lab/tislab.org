@@ -1,4 +1,7 @@
 body {
+  --rotateX: 65deg;
+  --rotateZ: 0deg;
+
   position: absolute;
   margin: 0;
   left: 50%;
@@ -23,7 +26,7 @@ body {
   position: relative;
   width: 1000px;
   height: 1000px;
-  perspective: 1500px;
+  perspective: 1000px;
 }
 
 #view {
