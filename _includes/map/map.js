@@ -2,7 +2,7 @@ let rotateX;
 let rotateZ;
 
 const resetView = () => {
-  rotateX = 65;
+  rotateX = 70;
   rotateZ = 0;
 
   updateView();
