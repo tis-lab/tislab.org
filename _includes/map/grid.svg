@@ -5,7 +5,7 @@
       stroke-width: 5;
       opacity: 0;
       transform: scale(0.7071067811865475) rotate(45deg);
-      animation: fade 2s linear forwards;
+      animation: fade 1s linear forwards;
     }
   </style>
 

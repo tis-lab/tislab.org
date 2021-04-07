@@ -4,39 +4,41 @@
       fill: none;
       stroke: #202020;
       stroke-width: 10;
-      stroke-dasharray: 3106.449;
+      stroke-dasharray: 3107;
+      stroke-dashoffset: 3107;
       stroke-linejoin: round;
-      animation: draw 2s cubic-bezier(0, 0.5, 1, 0.5); forwards;
+      animation: draw 2s cubic-bezier(0, 0.5, 1, 0.5) forwards;
+      animation-delay: 2s;
     }
 
     @keyframes draw {
       0% {
-        stroke-dashoffset: 3106.449;
+        stroke-dashoffset: 3107;
       }
       100% {
         stroke-dashoffset: 0;
       }
     }
-
+    
     .grow {
       transform: scale(0);
       animation: grow 0.5s ease forwards;
     }
 
     .dot:nth-of-type(1) > g {
-      animation-delay: 0s;
+      animation-delay: 1s;
     }
     .dot:nth-of-type(2) > g {
-      animation-delay: 0.25s;
+      animation-delay: 1.25s;
     }
     .dot:nth-of-type(3) > g {
-      animation-delay: 0.5s;
+      animation-delay: 1.5s;
     }
     .dot:nth-of-type(4) > g {
-      animation-delay: 0.75s;
+      animation-delay: 1.75s;
     }
     .dot:nth-of-type(5) > g {
-      animation-delay: 1s;
+      animation-delay: 2s;
     }
 
     @keyframes grow {

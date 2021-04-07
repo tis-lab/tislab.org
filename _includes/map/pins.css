@@ -33,19 +33,19 @@
 }
 
 #fish .drop {
-  animation-delay: 0.25s;
+  animation-delay: 2.5s;
 }
 #virus .drop {
-  animation-delay: 0.5s;
+  animation-delay: 2.75s;
 }
 #bird .drop {
-  animation-delay: 0.75s;
+  animation-delay: 3s;
 }
 #brain .drop {
-  animation-delay: 1s;
+  animation-delay: 3.25s;
 }
 #frog .drop {
-  animation-delay: 1.25s;
+  animation-delay: 3.5s;
 }
 
 @keyframes drop {
