@@ -34,4 +34,4 @@ const replayAnimations = () => {
 
 document.documentElement.addEventListener("mouseleave", resetView);
 document.documentElement.addEventListener("mousemove", rotateView);
-document.documentElement.addEventListener("mouseenter", replayAnimations);
+document.documentElement.addEventListener("click", replayAnimations);
