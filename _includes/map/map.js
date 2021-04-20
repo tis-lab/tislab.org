@@ -25,10 +25,9 @@ const updateView = () => {
 resetView();
 
 const replayAnimations = () => {
-  const elements = document.querySelectorAll("*");
-  for (const element of elements) element.style.animation = "none";
-  window.requestAnimationFrame(() => {
-    for (const element of elements) element.style.animation = "";
+  document.getAnimations().forEach((anim) => {
+    anim.finish();
+    anim.play();
   });
 };
 
