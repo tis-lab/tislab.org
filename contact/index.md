@@ -1,5 +1,8 @@
 ---
 title: Contact
+nav:
+  order: 6
+  tooltip: Email, address, and location
 ---
 
 # <i class="fas fa-envelope"></i>Contact
@@ -24,7 +27,7 @@ We are a geographically distributed team that is headquartered on the 6th Floor 
 [(541) 737-7150](tel:+1-541-737-7150)
 {:.center}
 
-### Address
+{% include section.html %}
 
 OHSU  
 3181 SW Sam Jackson Park Road  

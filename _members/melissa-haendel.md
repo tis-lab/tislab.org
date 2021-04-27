@@ -1,8 +1,10 @@
 ---
-title: Melissa Haendel
+name: Melissa Haendel
 image: images/team/melissa-haendel.jpg
-role: Director
-website: https://orcid.org/0000-0001-9114-8737
+role: pi
+description: Director
+links:
+  orcid: 0000-0001-9114-8737
 ---
 
 ### Roles

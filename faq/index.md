@@ -1,5 +1,8 @@
 ---
-title: FAQ's
+title: FAQs
+nav:
+  order: 5
+  tooltip: Frequently Asked Questions
 ---
 
 # <i class="far fa-question-circle"></i>Frequently Asked Questions
