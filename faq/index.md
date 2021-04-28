@@ -7,6 +7,8 @@ nav:
 
 # <i class="far fa-question-circle"></i>Frequently Asked Questions
 
+{% include section.html %}
+
 #### What is Translational Science?
 
 Translational Science is the art of applying knowledge and insights from one scientific domain to another.

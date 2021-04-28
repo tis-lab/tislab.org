@@ -7,6 +7,8 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
+{% include section.html %}
+
 ## Ontologies
 
 - [Human Phenotype Ontology (HPO)](https://hpo.jax.org/app/)
