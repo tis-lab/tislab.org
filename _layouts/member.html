@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-{%- include figure.html image=page.image -%}
+{%- include figure.html image=page.image height="500px" -%}
 
 <p class="center">
   {%- include role.html type=page.role text=true description=page.description -%}
@@ -19,6 +19,8 @@ layout: default
 </p>
 
 {{ content }}
+
+{% comment %}
 
 {%- assign aliases = "" | split: ',' -%}
 
@@ -40,7 +42,8 @@ layout: default
   {{ page.title }}'s papers
 {%- endcapture -%}
 
-
 <p class="center">
   {%- include link.html icon="fas fa-book-open" text=text link=search style="button" -%}
 </p>
+
+{% endcomment %}

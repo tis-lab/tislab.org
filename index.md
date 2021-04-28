@@ -25,7 +25,7 @@ On the front lines of this emerging field, TISLab applies these varied disciplin
 
 {%
   include feature.html
-  image="images/translational-science.png"
+  image="images/research/translational-science.png"
   link="team"
   headline="What is Translational Science?"
   text=text
@@ -49,7 +49,7 @@ This means that the research done in TISLab depends upon partnership and collabo
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/research/research.png"
   link="research"
   headline="Our Research"
   text=text

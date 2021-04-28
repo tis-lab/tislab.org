@@ -13,7 +13,7 @@ nav:
 
 {%
   include figure.html
-  image="images/monarch.png"
+  image="images/research/monarch.png"
   link="https://monarchinitiative.org/"
   width="400px"
 %}
@@ -43,7 +43,7 @@ Monarch is a collaboration among members TISLab, Lawrence Berkeley National Labo
 
 {%
   include figure.html
-  image="images/phenomics.png"
+  image="images/research/phenomics.png"
   width="400px"
 %}
 
@@ -65,7 +65,7 @@ This project forms the basis of a Center of Excellence in Genomic Science, a pro
 
 {%
   include figure.html
-  image="images/translational-science.png"
+  image="images/research/translational-science.png"
   height="250px"
 %}
 
@@ -104,7 +104,7 @@ TISLab is creating new discoveries by planning and hosting workshops for creatin
 
 {%
   include figure.html
-  image="images/ccdh-wheel.png"
+  image="images/research/ccdh-wheel.png"
   height="250px"
 %}
 
@@ -127,7 +127,7 @@ To address these issues TISLab is taking a leading role in the Center for Cancer
 
 {%
   include figure.html
-  image="images/kids-first.png"
+  image="images/research/kids-first.png"
   width="400px"
 %}
 
@@ -152,7 +152,7 @@ Additional work is being done in collaboration with the INCLUDE (INvestigation o
 
 {%
   include figure.html
-  image="images/translator.jpg"
+  image="images/research/translator.jpg"
   width="400px"
 %}
 
@@ -172,7 +172,7 @@ TISLab convenes expert teams from diverse scientific disciplines — including, 
 
 {%
   include figure.html
-  image="images/cd2h.png"
+  image="images/research/cd2h.png"
   height="250px"
 %}
 
@@ -196,7 +196,7 @@ CTSA Program members are poised to lead this charge by harnessing collective exp
 
 {%
   include figure.html
-  image="images/n3c.png"
+  image="images/research/n3c.png"
   width="400px"
 %}
 
@@ -221,7 +221,7 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {%
   include figure.html
-  image="images/flatten-the-curve.svg"
+  image="images/research/flatten-the-curve.svg"
   height="250px"
 %}
 
@@ -242,7 +242,7 @@ Flatten the Curve provides reliable information reviewed by scientists delivered
 
 {%
   include figure.html
-  image="images/tehr.png"
+  image="images/research/tehr.png"
   height="250px"
 %}
 

@@ -16,7 +16,9 @@ Not only are we changing the world, we are also changing science itself.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" %}
+{% include list.html data="members" component="portrait" filters="tier: first" %}
+{% include list.html data="members" component="portrait" filters="tier: second" %}
+{% include list.html data="members" component="portrait" filters="tier: " %}
 
 {% include section.html dark=true %}
 
@@ -30,7 +32,6 @@ Whether you are a scientist looking to step into an emerging field with your dat
   style="button"
 %}
 {:.center}
-
 
 {% comment %}
 {% include section.html %}
