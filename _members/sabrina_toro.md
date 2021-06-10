@@ -10,7 +10,9 @@ links:
 
 ---
 
-Sabrina's bio here
+
+Sabrina is a curator for the Translational and Integrative Sciences Lab (TISLab) where she participates in the Monarch Initiative, ontology development (such as Mondo, HPO), and community outreach efforts for Phenomics First.
+She has significant experience working with model organism data, and she has made significant contributions to model organism data curation and harmonization.
 
 
 ### Education
