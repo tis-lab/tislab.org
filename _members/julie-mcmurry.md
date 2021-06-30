@@ -4,7 +4,7 @@ image: images/team/julie-mcmurry.png
 description: Associate Director
 tier: second
 links:
-  email: mcmurryj@oregonstate.edu
+  email: julie.mcmurry@cuanschutz.edu
   orcid: 0000-0002-9353-5498
   github: jmcmurry
   linkedin: mcmurryjulie
@@ -23,4 +23,4 @@ She is cross-trained in biomedical research, public health, project management, 
 
 ### Departments
 
-- [CGRB in the Linus Pauling Institute](http://lpi.oregonstate.edu/)
+Center for Health AI
