@@ -15,7 +15,7 @@ nav:
 - [Uber Anatomy Ontology (Uberon)](http://uberon.github.io/)
 - [Unified Phenotype Ontology (uPheno)](https://github.com/obophenotype/upheno)
 - [GENO ontology](https://github.com/monarch-initiative/GENO-ontology)
-- [Monarch Disease Ontology (MONDO)](https://github.com/monarch-initiative/mondo)
+- [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 - [Scientific Evidence and Provenance Information Ontology (SEPIO)](https://github.com/monarch-initiative/SEPIO-ontology)
 
 Click [here](http://obofoundry.org/resources) for ontology tutorials and resources
@@ -26,11 +26,13 @@ Click [here](http://obofoundry.org/resources) for ontology tutorials and resourc
 - [Biolink API:](https://api.monarchinitiative.org/api/) API integration layer for linked biological objects.
 - [Exomiser:](https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/) The Exomiser is a Java program that functionally annotates variants from whole-exome sequencing data in VCF 4 format.
 
+## Standards
+
+- [Phenopacket:](http://phenopackets.org/) An open standard for sharing disease and phenotype information.
+
 ## Monarch web
 
-- [Phenogrid](https://monarchinitiative.org/page/phenogrid)
-- [Hippo:](https://hippo.monarchinitiative.org/#/) A search browser written in React JS to provide a user interface for Phenomics backend services (Phantom).
-- [Analyze Phenotypes:](https://monarchinitiative.org/analyze/phenotypes) The Phenotype Analysis Tool enables you search our database using the OwlSim Semantic Similarity analysis engine to find phenotypically similar diseases or genes in a variety of organisms, then visualize their overlap.
+- [Analyze Phenotypes:](https://monarchinitiative.org/analyze/phenotypes) The Phenotype Analysis Tool enables you search our database using the OwlSim Semantic Similarity analysis engine to find phenotypically similar diseases or genes in a variety of organisms, then visualize their overlap. Results will be displayed using [Phenogrid](https://github.com/monarch-initiative/phenogrid), a Javascript component that visualizes semantic similarity calculations provided through APIs from the [Monarch Initiative](https://monarchinitiative.org).
 - [Text mining:](https://monarchinitiative.org/annotate/text) Text Annotator provided by the [SciGraph](https://github.com/SciGraph/SciGraph) Annotation Service
 
 ## Evaluation tools

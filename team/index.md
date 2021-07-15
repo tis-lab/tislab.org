@@ -7,10 +7,10 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Translational and Integrative Science Center (TISC) reimagines data to change the world.
+The Translational and Integrative Sciences Laboratory (TISLab) reimagines data to change the world.
 The center supports the translation of insights from data files to implemented solutions.
-From the diagnosis of rare diseases and improving food systems and nutrition, to revealing patterns of biodiversity in response to climate change, TISC embodies an interdisciplinary, distributed collaboration model of science.
-In TISC, we are committed to the belief that shared, open science is the best way to solve problems and advance society.
+From the diagnosis of rare diseases and improving food systems and nutrition, to revealing patterns of biodiversity in response to climate change, TISLab embodies an interdisciplinary, distributed collaboration model of science.
+In TISLab, we are committed to the belief that shared, open science is the best way to solve problems and advance society.
 Bringing people and their data together across fields brings new discoveries and the ability to solve real world problems.
 Not only are we changing the world, we are also changing science itself.
 
