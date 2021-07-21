@@ -7,7 +7,7 @@ const redirect = async () => {
   if (!match) return;
   const [from, to] = match;
   console.log(`Redirecting from ${from} to ${to}`);
-  window.history.pushState(null, null, to);
+  window.location.href = to;
 };
 
 redirect();
