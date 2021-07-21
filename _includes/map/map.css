@@ -37,7 +37,7 @@ body {
   bottom: 0;
   transform-style: preserve-3d;
   transform: rotateX(var(--rotateX)) rotateZ(var(--rotateZ));
-  transition: transform 0.1s linear;
+  /* transition: transform 0.1s linear; */
 }
 
 #view > * {
