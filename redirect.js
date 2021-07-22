@@ -1,6 +1,6 @@
 // on 404, redirect if path matches any entry in redirects tsv map
 const list =
-  "https://storage.googleapis.com/tislab.org-redirects/tislab.org-redirects.tsv";
+  "https://storage.googleapis.com/tislab-redirects/tislab.org-redirects.tsv";
 const redirect = async () => {
   const tsv = await (await fetch(list)).text();
   const rows = tsv.split("\n").map((line) => line.split("\t"));
