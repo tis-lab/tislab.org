@@ -9,12 +9,12 @@ title: Home
 <style>
   iframe {
     width: 100%;
-    height: min(300px, 50vw);
+    height: min(400px, 50vw);
     border: none;
   }
 </style>
   
-<iframe src="map" width="100%" height="300px"></iframe>
+<iframe src="map"></iframe>
 
 {% include section.html %}
 
