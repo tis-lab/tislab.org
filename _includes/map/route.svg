@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-500 -500 1000 1000">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="-500 -500 1000 1000"
+  id="route"
+>
   <style>
     #path {
       fill: none;
-      stroke: #202020;
       stroke-width: 10;
-      stroke-dasharray: 3107;
-      stroke-dashoffset: 3107;
+      stroke-dasharray: 2166;
+      stroke-dashoffset: 2166;
       stroke-linejoin: round;
       animation: draw 2s cubic-bezier(0, 0.5, 1, 0.5) forwards;
       animation-delay: 2s;
@@ -13,13 +16,13 @@
 
     @keyframes draw {
       0% {
-        stroke-dashoffset: 3107;
+        stroke-dashoffset: 2166;
       }
       100% {
         stroke-dashoffset: 0;
       }
     }
-    
+
     .grow {
       transform: scale(0);
       animation: grow 0.5s ease forwards;
@@ -62,16 +65,26 @@
     }
   </style>
 
+  <defs>
+    <linearGradient id="route_gradient">
+      <stop offset="0%" stop-color="#202020" stop-opacity="0" />
+      <stop offset="33%" stop-color="#202020" stop-opacity="1" />
+      <stop offset="66%" stop-color="#202020" stop-opacity="1" />
+      <stop offset="100%" stop-color="#202020" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
   <path
     id="path"
+    stroke="url(#route_gradient)"
     d="
-      M -1500 0
+      M -1000 0
       L -200 0
       L -100 -100
       L 0 0
       L 100 100
       L 200 0
-      L 1500 0
+      L 1000 0
     "
   />
 

@@ -1,24 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-500 -500 1000 1000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-500 -500 1000 1000" id="grid">
   <style>
     .grid {
       fill: none;
       stroke-width: 5;
       opacity: 0;
-      transform: scale(0.7071067811865475) rotate(45deg);
+      transform: scale(0.70711) rotate(45deg);
       animation: fade 1s linear forwards;
     }
   </style>
 
   <defs>
-    <radialGradient id="gradient" r="50%">
-      <stop offset="0%" style="stop-color: #000000; stop-opacity: 0.1" />
-      <stop offset="100%" style="stop-color: #000000; stop-opacity: 0" />
+    <radialGradient id="grid_gradient" r="50%">
+      <stop offset="0%" stop-color="#e0e0e0" stop-opacity="1" />
+      <stop offset="100%" stop-color="#e0e0e0" stop-opacity="0" />
     </radialGradient>
   </defs>
 
-  <path class="grid" stroke="url(#gradient)" d="" />
+  <!-- grid boundaries, left/top/right/bottom -->
+  {% assign l = -10 %}
+  {% assign t = -10 %}
+  {% assign r = 10 %}
+  {% assign b = 10 %}
+  
+  <!-- grid step size -->
+  {% assign s = 100 %}
 
-  <script>
-    {% include map/grid.js %}
-  </script>
+  <path
+    class="grid"
+    stroke="url(#grid_gradient)"
+    d="
+      {% for x in (l..r) %}
+      M {{ x | times: s }} {{ t | times: s }} L {{ x | times: s }} {{ b | times: s }}
+      {% endfor %}
+      {% for y in (t..b) %}
+      M {{ l | times: s }} {{ y | times: s }} L {{ r | times: s }} {{ y | times: s }}
+      {% endfor %}
+    "
+  />
 </svg>
