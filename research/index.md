@@ -95,7 +95,8 @@ The goal of this project is to bring together a diverse range of research scient
 Unified data enables new insights in relationships between diseases, genes, and environments in a wide range of species.
 TISLab is creating new discoveries by planning and hosting workshops for creating new data standards that act as a “rosetta stone” between disciplines.
 
-**Contact:** [Julie McMurry](mailto:julie.mcmurry@cuanschutz.edu)  
+
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** NIH grant # 1 U13 CA221044-01
 
 {% include section.html %}
@@ -159,7 +160,7 @@ Additional work is being done in collaboration with the INCLUDE (INvestigation o
 NCATS studies translation on a system-wide level as a scientific and operational problem.
 TISLab convenes expert teams from diverse scientific disciplines — including, among others, efficacy, toxicity, data sharing, biomarkers and clinical application — to reduce, remove or bypass significant bottlenecks across the entire continuum of translation and to train the future translational science workforce.
 
-**Contact:** [Julie McMurry](mailto:julie.mcmurry@cuanschutz.edu)  
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** NCATS grant # 3 OT3 TR002019 01S2
 
 {% include link.html type="home-page" link="https://ncats.nih.gov/translator/" icon="" text="" %}
@@ -182,7 +183,7 @@ CD2H tools and resources make it simple and valuable for CTSA Program members to
 By promoting collaboration, CD2H fosters a robust translational science informatics ecosystem that collectively develops solutions to solve clinical problems faster, more efficiently, and more effectively.
 CTSA Program members are poised to lead this charge by harnessing collective expertise and strengths to solve key informatics challenges.
 
-**Contact:** [Julie McMurry](mailto:julie.mcmurry@cuanschutz.edu)  
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** NCATS grant # U24TR002306
 
 {% include link.html type="home-page" link="https://cd2h.org/" icon="" text="" %}
@@ -228,7 +229,7 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 We can all slow the spread of COVID-19 and “Flatten the Curve” together.
 Flatten the Curve provides reliable information reviewed by scientists delivered in as many languages as possible to help.
 
-**Contact:** [Julie McMurry](mailto:julie.mcmurry@cuanschutz.edu)  
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** NIH U24TR002306
 
 {% include link.html type="home-page" link="https://www.flattenthecurve.com/" icon="" text="" %}

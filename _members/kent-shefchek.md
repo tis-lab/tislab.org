@@ -1,18 +1,14 @@
 ---
 name: Kent Shefchek
 image: images/team/kent-shefchek.jpg
-description: Bioinformatics Engineer
+description: Senior Software Engineer
 links:
-  email: shefchek@oregonstate.edu
+  email: kent.shefchek@cuanschutz.edu
 ---
 
-Kent leads the Monarch software engineering team.
+Kent is a Senior Software Engineer in the Center for Health AI.  He works on the Monarch Initiative, Phenomics First, and the Biomedical Data Translator.
 
 ### Education
 
 - B.S., University of Maryland, College Park Maryland United States 2008
 - M.S., University of Maryland, Global Campus Maryland United States 2012
-
-### Departments
-
-- [EMT in the Linus Pauling Institute](http://lpi.oregonstate.edu/)

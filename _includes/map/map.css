@@ -1,5 +1,5 @@
 body {
-  --rotateX: 65deg;
+  --rotateX: 70deg;
   --rotateZ: 0deg;
 
   position: absolute;
@@ -8,6 +8,7 @@ body {
   top: 50%;
   transform: translate(-50%, -45%) scale(1.25);
   overflow: hidden;
+  touch-action: none;
 }
 
 @media (max-width: 800px) {
@@ -37,7 +38,7 @@ body {
   bottom: 0;
   transform-style: preserve-3d;
   transform: rotateX(var(--rotateX)) rotateZ(var(--rotateZ));
-  transition: transform 0.1s linear;
+  /* transition: transform 0.1s linear; */
 }
 
 #view > * {

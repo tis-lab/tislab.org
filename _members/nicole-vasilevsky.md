@@ -1,12 +1,14 @@
 ---
 name: Nicole A. Vasilevsky
 image: images/team/nicole-vasilevsky.jpg
-description: Research Assistant Professor and Lead Biocurator
+description: Lead Biocurator
 links:
   orcid: 0000-0001-5208-3432
   twitter: n_vasilevsky
   github: nicolevasilevsky
   linkedin: nicole-vasilevsky-a5302b4
+redirect_from:
+  - /nvasilevsky
 ---
 
 Nicole's research focuses on development and application of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility.

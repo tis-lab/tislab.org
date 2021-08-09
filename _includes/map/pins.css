@@ -3,7 +3,7 @@
   transform-origin: top left;
   transform: rotateZ(calc(-1 * var(--rotateZ)))
     rotateX(calc(-1 * var(--rotateX))) translate(-50%, -100%) !important;
-  transition: transform 0.1s linear;
+  /* transition: transform 0.1s linear; */
 }
 
 #fish {

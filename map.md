@@ -11,7 +11,7 @@ layout:
   <div id="view">
     {% include map/grid.svg %}
     {% include map/lines.svg %}
-    {% include map/path.svg %}
+    {% include map/route.svg %}
     {% include map/fish.svg %}
     {% include map/virus.svg %}
     {% include map/bird.svg %}
