@@ -4,7 +4,7 @@ image: images/team/matthew-brush.jpg
 description: Ontologist
 links:
   orcid: 0000-0002-1048-5019
-  email: brushm@ohsu.edu
+  email: matt@tislab.org
 ---
 
 Matt is a Research Assistant Professor at Oregon Health & Science University
