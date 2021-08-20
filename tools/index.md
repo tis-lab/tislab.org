@@ -24,7 +24,7 @@ Click [here](http://obofoundry.org/resources) for ontology tutorials and resourc
 
 - [Dipper:](https://github.com/monarch-initiative/dipper) Dipper is a Python package to generate RDF triples from common scientific resources.
 - [Biolink API:](https://api.monarchinitiative.org/api/) API integration layer for linked biological objects.
-- [Exomiser:](https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/) The Exomiser is a Java program that functionally annotates variants from whole-exome sequencing data in VCF 4 format.
+- [Exomiser:](https://exomiser.monarchinitiative.org/exomiser/) The Exomiser is a Java program that functionally annotates variants from whole-exome sequencing data in VCF 4 format.
 
 ## Standards
 
