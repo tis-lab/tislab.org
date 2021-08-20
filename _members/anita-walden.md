@@ -3,7 +3,7 @@ name: Anita Walden
 image: images/team/anita-walden.jpg
 description: Assistant Director
 links:
-  email: waldenan@ohsu.edu
+  email: anita.walden@sagebase.org
 ---
 
 Anita is an Assistant Director for CD2H.
