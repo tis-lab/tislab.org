@@ -23,4 +23,4 @@ She is cross-trained in biomedical research, public health, project management, 
 
 ### Departments
 
-- [CGRB in the Linus Pauling Institute](http://lpi.oregonstate.edu/)
+Center for Health AI
