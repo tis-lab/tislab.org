@@ -4,7 +4,7 @@ image: images/team/julie-mcmurry.png
 description: Associate Director
 tier: second
 links:
-  email: julie.mcmurry@cuanschutz.edu
+  email: julie@tislab.org
   orcid: 0000-0002-9353-5498
   github: jmcmurry
   linkedin: mcmurryjulie

@@ -275,91 +275,91 @@ TISLab is laying the foundation for a new community-driven effort to build data 
 
 We are part of the Metabolomics Core of the Undiagnosed Diseases Network (UDN). Our goals are to integrate metabolomics, lipidomics, glycomics, and genomics data with patient clinical phenotypes to provide mechanistic insight and aid diagnoses of rare and undiagnosed diseases. We are particularly involved in the integration of metabolites using existing pathway tools, reaction databases, and the integrated corpus of genotype-phenotype data within the Monarch platform for biological interpretation of disease etiology and biomarker signatures. We also started representing changes in glycomics signatures of patients with genetic diseases and undiagnosed diseases with the Molecular Glyco-Phenotype Ontology (MGPO) so as to enhance Human Phenotype Ontology and model data corpus to best leverage these phenotypic changes in the Exomiser tool.
 
-**Contact:** [Julie McMurry](julie.mcmurry@cuanschutz.edu).  
+**Contact:** [Julie McMurry](mailto:julie@tislab.org).  
 
 ### [Phenotypr](https://phenotypr.com/)
 
 Phenotypr is a free educational tool for people who believe they may have a disorder and want to learn more about their condition. This tool aims to provide additional information about what you are experiencing. We recommend you discuss this information with your healthcare provider to assist in your diagnosis.
 
-**Contact:** [Julie McMurry](julie.mcmurry@cuanschutz.edu)  
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** PCORI grant # 1R24OD011883-01.
 
 ### [INCA Tools](https://github.com/INCAtools/)
 
 This project aims to develop an intelligent concept assistant that will allow researchers to generate and share sets of metadata elements relevant to their project, and will use machine learning techniques to automatically apply this to data.
 
-**Contact:** [Melissa Haendel](melissa@tislab.org).  
+**Contact:** [Melissa Haendel](mailto:melissa@tislab.org).  
 **Funding:** NHGRI grant # 5 U01 HG009453 02.
 
 ### [N-Lighten Network: A Federated Platform for Education Resource Sharing](http://alaska.dev.eagle-i.net/)
 
 Researchers at Harvard University, Oregon Health & Science University and The Ohio State University CTSA Program hubs are developing educational resources, tools and technologies and make them available online to trainees, investigators and other members of the translational scientific team.
 
-**Contact:** [Marijane White](whimar@ohsu.edu)  
+**Contact:** [Marijane White](mailto:whimar@ohsu.edu)  
 
 ### [National Cancer Institute Theasaurus (NCIt)](https://ncit.nci.nih.gov/ncitbrowser/)
 
 The NCI thesaurus (NCIt) is a widely used cancer reference taxonomy that covers over 100,000 terms, developed by the National Cancer Institute (NCI) as a standalone ontology since 2003\. The NCI partnered with members of the [Monarch Initiative](https://monarchinitiative.org/) to enhance the ontology for interoperability with [OBO ontologies](http://www.obofoundry.org/).
 
-**Contact:** [Nicole Vasilevsky](nicole@tislab.org)  
+**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
 **Funding:** Leidos contract #15X143
 
 ### [OpenRIF](https://github.com/openrif)
 
 OpenRIF, the Open Research Information Framework, is an open source community devoted to representing expertise ecosystems - all the things we do and all the things we contribute. The community works on developing and promoting interoperable and extensible semantic infrastructure, such as the VIVO Integrated Semantic Framework (VIVO-ISF), an ontology for representing people, works, and the relationships between them; federated databases modeled on PARDI, the Portfolio Analysis and Reporting Data Infrastructure, for research impact and evaluation;and eagle-i, which aims to make research resources discoverable via a semantic search interface and represents their relationships to scholarly activities.
 
-**Contact:** [Robin Champieux](champieu@ohsu.edu)  
+**Contact:** [Robin Champieux](mailto:champieu@ohsu.edu)  
 
 ### [Annotating the CRAFT Corpus](http://bionlp-corpora.sourceforge.net/CRAFT/)
 
 The Colorado Richly Annotated Full-Text (CRAFT) Corpus is a collection of 97 full-length, open-access journal articles from the biomedical literature that are manually annotated, for use as gold-standard resources for the training and testing of biomedical Natural Language Processing (NLP) systems. Within these articles, each mention of the concepts explicitly represented in eight prominent Open Biomedical Ontologies (OBOs) has been annotated, resulting in gold-standard markup of genes and gene products, chemicals and molecular entities, biomacromolecular sequence features, cells and cellular and extracellular components and locations, organisms, biological processes and molecular functionalities. With these ~100,000 concept annotations among the ~800,000 words in the 67 articles of the 1.0 release, it is one of the largest gold-standard biomedical semantically annotated corpora. In addition to this substantial conceptual markup, the corpus is fully annotated along a number of syntactic and other axes, notably by sentence segmentation, tokenization, part-of-speech tagging, syntactic parsing, text formatting, and document sectioning. Current efforts are underway to add new annotations.
 
-**Contact:** [Nicole Vasilevsky](nicole@tislab.org)  
+**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
 **Funding:** NIH grants 5R01LM008111 and 5R01LM009254, and DARPA-BAA-14-14.
 
 ### [Web Taxology project](https://github.com/OHSU-Library/ohsu-entities)
 
 The Web Taxology project is a collaboration between the OHSU Library, Digital Strategy, and the Marketing team to create a data model of all the people, places, and things at OHSU, which is the first step towards improving OHSU's local search results in third-party search engines like Google. The initial goal of the project is to improve patient experience when finding their way to and around OHSU's campuses and clinic locations, with future goals to be used in other contexts and projects throughout the institution as a whole.
 
-**Contact:** [Marijane White](whimar@ohsu.edu)  
+**Contact:** [Marijane White](mailto:whimar@ohsu.edu)  
 **Funding:** OHSU Library
 
 ### Open Insight
 
 Open Insight is an education and outreach project designed to stimulate early career researchers' engagement with open science practices through hands-on learning and conversations with leaders in the field. The Open Insight team brings together doctoral students, scientists, and OHSU Library staff with expertise in scholarly communications and data management to explore and promote the practice of open science activities and workflows.
 
-**Contact:** [Robin Champieux](champieu@ohsu.edu).  
+**Contact:** [Robin Champieux](mailto:hampieu@ohsu.edu).  
 
 ### CTAR
 
 The Clinical and Translational Activity Reporting (CTAR) tool was a collaboration Oregon Clinical and Translational Research Institute and the OHSU Library's Ontology Development Group to prototype tool that would collocate and analyze data about research activities across a disparate set of internal and external databases (e.g. IRB, grants and contracts, PubMed). Leveraging MeSH, other terminologies, and simple Natural Language Processing (NLP) techniques, the CTAR prototype identified research activity topics and trends, and their classification as clinical or translational. The tool was intended to increase the OHSU's and the Oregon Clinical and Translational Research Institute's ability to strategically contribute to research outcomes and human health.
 
-**Contact:** [Melissa Haendel](melissa@tislab.org).  
+**Contact:** [Melissa Haendel](mailto:melissa@tislab.org).  
 
 ### [CTSAconnect](http://ctsaconnect.org/)
 
 The CTSAconnect project aimed to integrate information about research activities, clinical activities, and scientific resources by creating an Integrated Semantic Framework (ontology). This new framework facilitated the production and consumption of Linked Open Data (a Semantic Web method of sharing data) about investigators, physicians, biomedical research resources, services, and clinical activities. The goal was to enable software to consume data from multiple sources and allow the broadest possible representation of researchers' and clinicians' activities and research products. Current research tracking and networking systems rely largely on publications, but clinical encounters, reagents, techniques, specimens, model organisms, etc., are equally valuable for representing expertise. CTSAconnect was a collaboration between members at OHSU, Stony Brook University, Cornell University, Harvard University, University at Buffalo, and the University of Florida, and leveraged the work of eagle-i, VIVO, and ShareCenter.
 
-**Contact:** [Nicole Vasilevsky](nicole@tislab.org)  
+**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
 **Funding:** Booz Allen Hamilton grant # CTSA 10-001: 100928SB23
 
 ### [eagle-i Network](https://www.eagle-i.net/)
 
 eagle-i is a free application that makes it easy to discover biomedical research resources at a growing network of universities; more than 50,000 resources are listed and more are added every week. Resource types include model organisms, reagents, core laboratory services, instrumentation, and biospecimens.
 
-**Contact:** [Julie McMurry](julie.mcmurry@cuanschutz.edu)  
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** Booz Allen Hamilton grant # 90177520
 
 ### [Resource Identification Initiative](https://www.force11.org/group/resource-identification-initiative)
 
 The Resource Identification Initiative (#RII) was designed to help researchers sufficiently cite the key resources used to produce the scientific findings reported in the biomedical literature. The project aimed to enable resource identification within the biomedical literature through a pilot study promoting the use of unique Research Resource Identifiers (RRIDs). In addition to being unique, RRID’s meet three key criteria, they are: 1) Machine readable; 2) Free to generate and access; 3) Consistent across publishers and journals. A diverse group of collaborators led the project, including the Neuroscience Information Framework and the OHSU Library.
 
-**Contact:** [Nicole Vasilevsky](nicole@tislab.org)  
+**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
 **Funding:** [NIH](https://www.nih.gov/) and the [INCF](https://neuinfo.org//)
 
 ### Biospecimen Query
 
 This project explored options for enhancing search capabilities for an existing biospecimen search application. Text processing tools were used to map anatomy, pathology, and disease concepts from existing terminologies and ontologies to pathology reports that are currently represented in an unstructured natural text form. The concepts identified in the text were also organized in a relational structure to enable taxonomic and parthood based searches. This was a small exploratory project with a goal of integrating these capabilities in an ongoing effort to expand and integrate OHSU's biospecimen databases.
 
-**Contact:** [Melissa Haendel](melissa@tislab.org)  
+**Contact:** [Melissa Haendel](mailto:melissa@tislab.org)  
 **Funding:** OHSU's Medical Research Foundation
