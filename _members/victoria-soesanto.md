@@ -3,6 +3,7 @@ name: Victoria Alexandra Soesanto
 image: images/team/victoria-soesanto.jpg
 description: Scientific Software Engineer
 links:
+  orcid: 0000-0002-0539-848X
   github: victoriasoesanto
   linkedin: victoriayang115
 ---
