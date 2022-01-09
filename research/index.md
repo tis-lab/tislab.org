@@ -195,27 +195,6 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {% include section.html %}
 
-### Flatten the Curve
-
-{%
-  include figure.html
-  image="images/research/flatten-the-curve.svg"
-  height="250px"
-%}
-
-We can all slow the spread of COVID-19 and “Flatten the Curve” together.
-Flatten the Curve provides reliable information reviewed by scientists delivered in as many languages as possible to help.
-
-**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
-**Funding:** NIH U24TR002306
-
-{% include link.html type="home-page" link="https://www.flattenthecurve.com/" icon="" text="" %}
-{% include link.html type="github" link="flattenthecurve" icon="" text="" %}
-{% include link.html type="twitter" link="FlattenCurve" icon="" text="" %}
-{:.center}
-
-{% include section.html %}
-
 ### Integrated Health Sciences Facility Core
 
 {%
@@ -267,6 +246,27 @@ To address these issues TISLab is taking a leading role in the Center for Cancer
 
 {% include link.html type="home-page" link="https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh/" icon="" text="" %}
 {% include link.html type="github" link="cancerDHC" icon="" text="" %}
+{:.center}
+
+{% include section.html %}
+
+### Flatten the Curve
+
+{%
+  include figure.html
+  image="images/research/flatten-the-curve.svg"
+  height="250px"
+%}
+
+We can all slow the spread of COVID-19 and “Flatten the Curve” together.
+Flatten the Curve provides reliable information reviewed by scientists delivered in as many languages as possible to help.
+
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
+**Funding:** NIH U24TR002306
+
+{% include link.html type="home-page" link="https://www.flattenthecurve.com/" icon="" text="" %}
+{% include link.html type="github" link="flattenthecurve" icon="" text="" %}
+{% include link.html type="twitter" link="FlattenCurve" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
