@@ -101,29 +101,6 @@ TISLab is creating new discoveries by planning and hosting workshops for creatin
 
 {% include section.html %}
 
-### Center for Cancer Data Harmonization
-
-{%
-  include figure.html
-  image="images/research/ccdh-wheel.png"
-  height="250px"
-%}
-
-TISLab is leading development of a data-powered support infrastructure to cure and treat cancer.
-The data that researchers need to develop new life saving therapies spans disciplines and biological scales, especially where personalized approaches are needed.
-Currently, integrating data ranging from genomes and cellular components to patients and symptoms is a significant barrier to research.
-
-To address these issues TISLab is taking a leading role in the Center for Cancer Data Harmonization (CCDH) whose mission is to bring data together across the various nodes of NCI’s Cancer Research Data Commons (CRDC) and make them accessible to researchers of any discipline in the fight against cancer.
-
-**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
-**Funding:** NCI / Leidos contract # HHSN261201500003I
-
-{% include link.html type="home-page" link="https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh/" icon="" text="" %}
-{% include link.html type="github" link="cancerDHC" icon="" text="" %}
-{:.center}
-
-{% include section.html %}
-
 ### Gabriella Miller Kids First Pediatric Data Resource Center
 
 {%
@@ -268,6 +245,29 @@ TISLab is laying the foundation for a new community-driven effort to build data 
 {% include section.html %}
 
 # <i class="fas fa-microscope"></i>Past Research
+
+{% include section.html %}
+
+### Center for Cancer Data Harmonization
+
+{%
+  include figure.html
+  image="images/research/ccdh-wheel.png"
+  height="250px"
+%}
+
+TISLab is leading development of a data-powered support infrastructure to cure and treat cancer.
+The data that researchers need to develop new life saving therapies spans disciplines and biological scales, especially where personalized approaches are needed.
+Currently, integrating data ranging from genomes and cellular components to patients and symptoms is a significant barrier to research.
+
+To address these issues TISLab is taking a leading role in the Center for Cancer Data Harmonization (CCDH) whose mission is to bring data together across the various nodes of NCI’s Cancer Research Data Commons (CRDC) and make them accessible to researchers of any discipline in the fight against cancer.
+
+**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
+**Funding:** NCI / Leidos contract # HHSN261201500003I
+
+{% include link.html type="home-page" link="https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh/" icon="" text="" %}
+{% include link.html type="github" link="cancerDHC" icon="" text="" %}
+{:.center}
 
 {% include section.html %}
 
