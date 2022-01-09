@@ -44,7 +44,7 @@ Feedback is welcome via our [GitHub tracker](https://github.com/OHSUBD2K/BDK14-O
 
 #### [BioData Club](https://biodata-club.github.io/)
 
-BioData Club is an informal, on-campus meetup initiated by a group of OHSU students, staff, and faculty.
+BioData Club is an informal, on-campus meetup initiated by a group of Oregon Health & Science University (OHSU) students, staff, and faculty.
 We come together to share skills, ask questions, and learn new open research tools.
 We believe anyone can learn to program and are happy to help you start from scratch!
 Join us to write your first line of code, learn new data management and analysis skills, try your hand at teaching in an informal context - or just show up at our Hacky Hour co-working events to work on your own projects with company.
