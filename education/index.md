@@ -13,6 +13,13 @@ nav:
 
 <!-- TO DO add funding -->
 
+#### [OBO Semantic Engineering Training](https://oboacademy.github.io/obook/)
+
+Open, online self-paced training materials on becoming an OBO Semantic Engineer. The materials in this course are all intended to be used for self-study. The materials are aimed at several different audiences including database curators, ontology curators, ontology engineers and developers, ontology pipeline specialists, semantic ETC engineers and software engineers.
+
+**Funding:** The creation of this content was funded by the [Critical Path Institute (CPI)](https://c-path.org/).
+
+
 #### [BD2K Open Educational Resources](https://github.com/OHSUBD2K/)
 
 Open Educational Resources covering various topics in data science are available in the form of online materials that are available [here](https://github.com/OHSUBD2K/), that are freely available to educators and students.
