@@ -149,6 +149,24 @@ Additional work is being done in collaboration with the INCLUDE (INvestigation o
 
 {% include section.html %}
 
+### INCLUDE Data Coordinating Center
+
+{%
+  include figure.html
+  image="images/research/include-dcc.png"
+  width="400px"
+%}
+
+The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digital platform to easily access and share Down syndrome resources to maximize and accelerate research.
+
+**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
+**Funding:** Supported by the National Institutes of Health INCLUDE Project under Project Number U2CHL156291 administered by the National Heart, Lung and Blood Institute.
+
+{% include link.html type="home-page" link="https://includedcc.org/" icon="" text="" %}
+{:.center}
+
+{% include section.html %}
+
 ### Biomedical Data Translator Program
 
 {%
