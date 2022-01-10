@@ -259,12 +259,11 @@ To address these issues TISLab took a lead role in the Center for Cancer Data Ha
 %}
 
 We can all slow the spread of COVID-19 and “Flatten the Curve” together.
-Flatten the Curve provides reliable information reviewed by scientists delivered in as many languages as possible to help.
+Flatten the Curve provided reliable information reviewed by scientists delivered in as many languages as possible to help.
 
 **Contact:** [Julie McMurry](mailto:julie@tislab.org)  
 **Funding:** NIH U24TR002306
 
-{% include link.html type="home-page" link="https://www.flattenthecurve.com/" icon="" text="" %}
 {% include link.html type="github" link="flattenthecurve" icon="" text="" %}
 {% include link.html type="twitter" link="FlattenCurve" icon="" text="" %}
 {:.center}
