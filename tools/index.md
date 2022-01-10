@@ -11,12 +11,16 @@ nav:
 
 ## Ontologies
 
-- [Human Phenotype Ontology (HPO)](https://hpo.jax.org/app/)
-- [Uber Anatomy Ontology (Uberon)](http://uberon.github.io/)
-- [Unified Phenotype Ontology (uPheno)](https://github.com/obophenotype/upheno)
-- [GENO ontology](https://github.com/monarch-initiative/GENO-ontology)
 - [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+- [Human Phenotype Ontology (HPO)](https://hpo.jax.org/app/)
+- [Unified Phenotype Ontology (uPheno)](https://github.com/obophenotype/upheno)
+- [Medical Action Ontology (MAxO)](https://github.com/monarch-initiative/MAxO )
+- [Environmental Exposure Ontology (ECTO)](https://github.com/EnvironmentOntology/environmental-exposure-ontology)
+- [Uber Anatomy Ontology (Uberon)](http://uberon.github.io/)
+- [Cell Ontology](https://github.com/obophenotype/cell-ontology)
+- [GENO ontology](https://github.com/monarch-initiative/GENO-ontology)
 - [Scientific Evidence and Provenance Information Ontology (SEPIO)](https://github.com/monarch-initiative/SEPIO-ontology)
+- [Ontology of Biological Attributes (OBA)](https://github.com/obophenotype/bio-attribute-ontology)
 
 Click [here](http://obofoundry.org/resources) for ontology tutorials and resources
 
