@@ -25,11 +25,11 @@ With regard to clinical and translational impact, she has contributed to laypers
 
 ### Biocuration projects
 
-- [Monarch Inititative](https://monarchinitiative.org/)
+- [Monarch Initiative](https://monarchinitiative.org/)
 - [Gabriella Miller Kids First Data Resource Portal](https://kidsfirstdrc.org/)
 - Annotating [LOINC](https://loinc2hpo.readthedocs.io/en/latest/) codes for [CD2H](https://ctsa.ncats.nih.gov/cd2h/)
 - [Architecting Attribution](https://github.com/data2health/architecting_attribution)
-- INCLUDE Data Coordinating Center
+- [INCLUDE Data Coordinating Center](https://includedcc.org/)
 - [CRAFT corpus](http://bionlp-corpora.sourceforge.net/CRAFT/)
 - [Center for Cancer Data Harmonization](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh)
 
@@ -41,10 +41,13 @@ With regard to clinical and translational impact, she has contributed to laypers
 - [Cell Ontology](https://github.com/obophenotype/cell-ontology)
 - [PATO](https://github.com/pato-ontology/pato)
 - [Envioronmental Exposure Ontology](https://github.com/EnvironmentOntology/environmental-exposure-ontology)
+- [Medical Action Ontology (MAxO)](https://github.com/monarch-initiative/MAxO)
 - [Contributor Role Ontology](https://github.com/data2health/contributor-role-ontology)
+- [Uberon Anatomy Ontology](https://github.com/obophenotype/uberon)
 
 ### Education and Teaching
 
+- [OBO Semantic Engineering Training](https://oboacademy.github.io/obook/)
 - [OHSU Library Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
 - [BD2K Open Educational Resources for Data Science](https://github.com/OHSUBD2K/)
 - [BD2K Data Science skills courses](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/research/bd2k.cfm)
