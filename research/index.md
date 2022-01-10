@@ -235,7 +235,7 @@ TISLab is laying the foundation for a new community-driven effort to build data 
   height="250px"
 %}
 
-TISLab led development of a data-powered support infrastructure to cure and treat cancer.
+TISLab led the development of a data-powered support infrastructure to cure and treat cancer.
 The data that researchers need to develop new life saving therapies spans disciplines and biological scales, especially where personalized approaches are needed.
 Integrating data ranging from genomes and cellular components to patients and symptoms was a significant barrier to research.
 
