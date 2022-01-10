@@ -165,6 +165,8 @@ The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digi
 {% include link.html type="home-page" link="https://includedcc.org/" icon="" text="" %}
 {:.center}
 
+{% include section.html %}
+
 ### Biomedical Data Translator Program
 
 {%
