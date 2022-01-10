@@ -13,6 +13,13 @@ nav:
 
 <!-- TO DO add funding -->
 
+#### [OBO Semantic Engineering Training](https://oboacademy.github.io/obook/)
+
+Open, online self-paced training materials on becoming an OBO Semantic Engineer. The materials in this course are all intended to be used for self-study. The materials are aimed at several different audiences including database curators, ontology curators, ontology engineers and developers, ontology pipeline specialists, semantic ETC engineers and software engineers.
+
+**Funding:** The creation of this content was funded by the [Critical Path Institute (CPI)](https://c-path.org/).
+
+
 #### [BD2K Open Educational Resources](https://github.com/OHSUBD2K/)
 
 Open Educational Resources covering various topics in data science are available in the form of online materials that are available [here](https://github.com/OHSUBD2K/), that are freely available to educators and students.
@@ -37,7 +44,7 @@ Feedback is welcome via our [GitHub tracker](https://github.com/OHSUBD2K/BDK14-O
 
 #### [BioData Club](https://biodata-club.github.io/)
 
-BioData Club is an informal, on-campus meetup initiated by a group of OHSU students, staff, and faculty.
+BioData Club is an informal, on-campus meetup initiated by a group of Oregon Health & Science University (OHSU) students, staff, and faculty.
 We come together to share skills, ask questions, and learn new open research tools.
 We believe anyone can learn to program and are happy to help you start from scratch!
 Join us to write your first line of code, learn new data management and analysis skills, try your hand at teaching in an informal context - or just show up at our Hacky Hour co-working events to work on your own projects with company.
