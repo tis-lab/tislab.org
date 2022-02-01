@@ -12,6 +12,7 @@ How easy is the template to use?
 How flexible is it?
 How's our documentation?
 
+<<<<<<< HEAD
 ## Gallery
 
 <kbd>
@@ -34,6 +35,8 @@ How's our documentation?
 
 more coming soon...
 
+=======
+>>>>>>> template/main
 ## Features
 
 - **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
@@ -46,13 +49,24 @@ more coming soon...
   - image galleries
   - multi-size cards with image and text
   - citations
+<<<<<<< HEAD
   - ...[and more](https://github.com/greenelab/lab-website-template/wiki/Components)!
+=======
+  - ...[and many more](https://github.com/greenelab/lab-website-template/wiki/Components)!
+>>>>>>> template/main
 - A **home page**, where you can highlight the most important things that make your lab special
 - A **research page**, with a sorted, searchable list of all your published works
 - A **tools page**, where you can show off your software, datasets, or other useful things
 - A **team** page, compiled automatically from individual members
 - Individual **team member pages** with bios, assignable roles, and social media links
 - A **blog page**, with a sorted, grouped, tagged list of all your posts
+<<<<<<< HEAD
+=======
+
+## Gallery
+
+[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
+>>>>>>> template/main
 
 ## Documentation
 
@@ -61,6 +75,8 @@ more coming soon...
 [🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
 
 [📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
+
+[🤖 Automatic Citations](https://github.com/greenelab/lab-website-template/wiki/Automatic-Citations)
 
 [⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
 

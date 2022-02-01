@@ -11,7 +11,7 @@ const headers = { Accept: "application/vnd.github.mercy-preview+json" };
 // fetch and add github tags to any tag section with a specified repo
 const createTags = async () => {
   // get tag rows with specified repos
-  const rows = Array.from(document.querySelectorAll("[data-repo]"));
+  const rows = document.querySelectorAll("[data-repo]");
 
   // for each repo
   for (const row of rows) {
@@ -21,7 +21,16 @@ const createTags = async () => {
 
     // get tags from github
     if (!repo) continue;
+<<<<<<< HEAD
     const tags = (await fetchTags(repo)) || [];
+=======
+    let tags = (await fetchTags(repo)) || [];
+
+    // filter out tags already present in row
+    let existing = Array.from(row.querySelectorAll(".tag"));
+    existing = existing.map((tag) => normalizeString(tag.innerText));
+    tags = tags.filter((tag) => !existing.includes(normalizeString(tag)));
+>>>>>>> template/main
 
     // add tag elements to section
     for (const tag of tags) {
@@ -29,6 +38,10 @@ const createTags = async () => {
       a.classList.add("tag");
       a.innerHTML = tag;
       a.href = `${link}?search="tag: ${tag}"`;
+<<<<<<< HEAD
+=======
+      a.dataset.tooltip = `Show items with the tag "${tag}"`;
+>>>>>>> template/main
       row.append(a);
     }
 

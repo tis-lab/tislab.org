@@ -4,7 +4,11 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+<<<<<<< HEAD
 {%- include figure.html image=page.image height="500px" -%}
+=======
+{%- include figure.html image=page.image -%}
+>>>>>>> template/main
 
 <p class="center">
   {%- include role.html type=page.role text=true description=page.description -%}
@@ -20,6 +24,7 @@ layout: default
 
 {{ content }}
 
+<<<<<<< HEAD
 {% comment %}
 
 {%- assign aliases = "" | split: ',' -%}
@@ -47,3 +52,24 @@ layout: default
 </p>
 
 {% endcomment %}
+=======
+{%- assign aliases = "" | split: ',' -%}
+
+{%- if page.aliases.first -%}
+  {%- assign aliases = aliases | concat: page.aliases -%}
+{%- elsif page.aliases -%}
+  {%- assign aliases = aliases | push: page.aliases -%}
+{%- elsif page.title -%}
+  {%- assign aliases = aliases | push: page.title -%}
+{%- endif -%}
+
+{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/research/?search=" -%}
+
+{%- capture text -%}
+  {{ page.title }}'s papers
+{%- endcapture -%}
+
+<p class="center">
+  {%- include link.html icon="fas fa-book-open" text=text link=search style="button" -%}
+</p>
+>>>>>>> template/main
