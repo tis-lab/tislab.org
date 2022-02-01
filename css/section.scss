@@ -15,7 +15,6 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  font-size: 12pt;
   font-family: $serif;
 
   main {
@@ -25,12 +24,13 @@ body {
   }
 
   section {
-    .section {
-      box-sizing: content-box;
-      max-width: $page;
-      margin: 0 auto;
-      padding: 60px 40px;
-      text-align: center;
+    box-sizing: content-box;
+    padding: 60px 40px; // fallback
+    padding: 60px Max(40px, calc((100% - #{$page}) / 2));
+    text-align: center;
+
+    &[data-full="true"] {
+      padding: 0;
     }
   }
 
