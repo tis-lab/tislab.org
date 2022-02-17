@@ -3,9 +3,9 @@ name: Sarah Gehrke
 image: images/team/sarah-gehrke.jpg
 description: Project Manager
 links:
-  orcid: https://orcid.org/0000-0003-3245-2880
-  github: https://github.com/sagehrke
-  linkedin: https://www.linkedin.com/in/sarahgehrke 
+  orcid: 0000-0003-3245-2880
+  github: sagehrke
+  linkedin: sarahgehrke 
 ---
 
 Sarah is a Project Manager with TISLab at the University of Colorado's Center for Health AI. They are a trained analytical chemist with a diverse background in industry labs, researching coal/natural gas remediation and biomass conversion technologies. Most recently, they participated in metabolomics mass spectrometry research at the CU Anschutz medical campus and were finance manager for the Structural Biology and Biochemistry Cores. Sarah is highly interested in data presentation and dissemination and is passionate about connecting people to make fundamental, positive changes that impact the wellness of our communities.
