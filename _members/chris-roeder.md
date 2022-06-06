@@ -1,6 +1,6 @@
 ---
 name: Chris Roeder 
-image: images/team/chris-roeder.jpg
+image: images/team/chris-roeder.png
 description: Scientific Software Engineer
 links:
   orcid: 0000-0003-3889-2473
