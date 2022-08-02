@@ -1,7 +1,7 @@
 ---
 name: Corey Cox
 image: images/team/corey-cox.jpg
-description: Science Software Engineer
+description: Scientific Software Engineer
 links:
   orcid: 0000-0002-4291-0737
   github: amc-corey-cox
