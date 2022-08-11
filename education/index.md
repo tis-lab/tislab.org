@@ -38,7 +38,10 @@ Feedback is welcome via our [GitHub tracker](https://github.com/OHSUBD2K/BDK14-O
 
 {% include section.html %}
 
-## Opportunities
+<!-- ## Opportunities -->
+
+
+## Past Classes, Workshops and Training
 
 <!-- need to add logo, url, description -->
 
@@ -52,8 +55,6 @@ Join us to write your first line of code, learn new data management and analysis
 **Funding:** Sponsored by the OHSU Library and OHSU DMICE.
 
 {% include section.html %}
-
-## Past Classes, Workshops and Training
 
 #### [Computable Exposures Workshop](https://drive.google.com/drive/u/2/folders/10Wi09RDHdQczanzbK6tU86yifdMH5kq0)
 
