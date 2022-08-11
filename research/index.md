@@ -213,6 +213,19 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {% include section.html %}
 
+### Environmental Health Sciences Vocabulary
+
+TISLab is laying the foundation for a new community-driven effort to build data standards for the environmental health sciences.
+
+**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
+**Funding:** NIEHS
+
+{% include section.html %}
+
+# <i class="fas fa-microscope"></i>Past Research
+
+{% include section.html %}
+
 ### Integrated Health Sciences Facility Core
 
 {%
@@ -229,19 +242,6 @@ By building tools like an interactive, searchable Discovery Index to identify in
 
 {% include link.html type="home-page" link="https://ehsc.oregonstate.edu/" icon="" text="" %}
 {:.center}
-
-{% include section.html %}
-
-### Environmental Health Sciences Vocabulary
-
-TISLab is laying the foundation for a new community-driven effort to build data standards for the environmental health sciences.
-
-**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
-**Funding:** NIEHS
-
-{% include section.html %}
-
-# <i class="fas fa-microscope"></i>Past Research
 
 {% include section.html %}
 
