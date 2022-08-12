@@ -2,7 +2,7 @@
 name: Monica Munoz-Torres
 image: images/team/monica-munoz-torres.jpg
 description: Program Manager
-tier: second
+tier: fourth
 links:
   orcid: 0000-0001-8430-6039
   github: monicacecilia
