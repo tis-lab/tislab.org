@@ -27,17 +27,6 @@ This project was funded by an award to the [OHSU Library](http://www.ohsu.edu/li
 
 **Funding:** The BD2K OERs are funded by NIH grant # 1R25GM114820.
 
-<!-- need to add funding, add link to tracker -->
-
-#### [Ontologies 101 - online training](https://github.com/OHSUBD2K/BDK14-Ontologies-101)
-
-This online tutorial covers basics in biomedical ontology development using the ontology software, Protege.
-Feedback is welcome via our [GitHub tracker](https://github.com/OHSUBD2K/BDK14-Ontologies-101).
-
-**Funding:** The project was funded in part by the BD2K OER NIH grant # 1R25GM114820.
-
-{% include section.html %}
-
 <!-- ## Opportunities -->
 
 
