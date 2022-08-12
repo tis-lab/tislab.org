@@ -20,7 +20,7 @@ Open, online self-paced training materials on becoming an OBO Semantic Engineer.
 **Funding:** The creation of this content was funded by the [Critical Path Institute (CPI)](https://c-path.org/).
 
 
-#### [BD2K Open Educational Resources](https://github.com/OHSUBD2K/)
+#### [Data Science Open Educational Resources](https://github.com/OHSUBD2K/)
 
 Open Educational Resources covering various topics in data science are available in the form of online materials that are available [here](https://github.com/OHSUBD2K/), that are freely available to educators and students.
 This project was funded by an award to the [OHSU Library](http://www.ohsu.edu/library) and the [Department of Medical Informatics & Clinical Epidemiology (DMICE)](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/), as part of the NIH Big Data to Knowledge (BD2K) initiative, with the goal of improving health research by training students and researchers to better utilize and generate knowledge from large biomedical datasets.
