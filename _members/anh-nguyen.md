@@ -1,6 +1,6 @@
 ---
 name: Anh Nguyen
-image: images/team/anh-nguyen.png
+image: images/team/anh-nguyen.jpg
 description: Program Manager
 tier: second
 links:
