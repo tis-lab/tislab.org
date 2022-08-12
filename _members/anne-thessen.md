@@ -2,7 +2,6 @@
 name: Anne E Thessen
 image: images/team/anne-thessen.jpg
 description: Semantic Engineer
-tier: fifth
 links:
   orcid: 0000-0002-2908-3327
   twitter: diatomsrcool

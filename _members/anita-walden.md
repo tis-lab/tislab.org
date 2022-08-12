@@ -2,7 +2,7 @@
 name: Anita Walden
 image: images/team/anita-walden.jpg
 description: Assistant Director
-tier: third
+tier: second
 links:
   email: anita.walden@sagebase.org
 ---
