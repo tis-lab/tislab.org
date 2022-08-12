@@ -2,7 +2,6 @@
 name: Anh Nguyen
 image: images/team/anh-nguyen.jpg
 description: Program Manager
-tier: second
 links:
   email: ANH.H3.NGUYEN@cuanschutz.edu
   orcid: 
