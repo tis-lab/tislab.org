@@ -12,3 +12,7 @@ Prior to joining TISLab, Brandon has worked in positions with both nonprofit and
 
 - BS in Business Economics, Western Kentucky University, 2012
 - Master of Public Administration, Western Kentucky University, 2017
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

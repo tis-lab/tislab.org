@@ -17,3 +17,7 @@ She brings many years of environmental and biodiversity science experience to th
 
 - B.S. Marine Science, Nicholls State University 2001
 - Ph.D. Biological Oceanography, University of Maryland 2007
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

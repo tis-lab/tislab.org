@@ -18,6 +18,6 @@ Shawn is the author of [A Primer for Computational Biology](https://open.oregons
 - M.S. Computer Science and Engineering, University of Notre Dame 2009
 - Ph.D. Computer Science and Engineering, University of Notre Dame 2012
 
-### Departments
+### Department
 
-- [Environmental and Molecular Toxicology](http://emt.oregonstate.edu/)
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

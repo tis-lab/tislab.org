@@ -13,3 +13,7 @@ She joins us from OSU's Office of the Registrar, where she gained strong analyti
 - BA in English Linguistics, Kazakh State University of World Language, Almaty Kazakhstan, 2004
 - BS in International Business, Johnson & Wales University, Providence RI, 2011
 - MBA, Business Analytics, Oregon State University, Corvallis OR, 2019
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

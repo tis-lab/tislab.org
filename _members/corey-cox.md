@@ -14,3 +14,7 @@ Corey Cox is a biochemist, developer, and data scientist and is currently a Scie
 
 - B.A. Biochemistry & Molecular Biology 1998
 - M.S. Biomedical Science and Biotechhnology 2018
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

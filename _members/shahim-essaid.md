@@ -15,7 +15,6 @@ He has an MD University of Baghdad, Iraq and holds a graduate certificate Depart
 - MD, University of Baghdad
 - Graduate Certificate, Medical Informatics and Clinical Epidemiology, OHSU
 
-### Departments
+### Department
 
-- [OCTRI](http://www.ohsu.edu/xd/research/centers-institutes/octri/)
-- [Department of Medical Informatics and Clinical Epidemiology](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/)
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

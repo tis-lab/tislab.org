@@ -52,3 +52,7 @@ With regard to clinical and translational impact, she has contributed to laypers
 - [BD2K Open Educational Resources for Data Science](https://github.com/OHSUBD2K/)
 - [BD2K Data Science skills courses](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/research/bd2k.cfm)
 - Ontologies 101: [Slides](https://github.com/prog4biol/pfb2018/blob/master/workshops/Ontologies/IntroToOntologies_CSH_2018-10-28g.pdf) and [Protege tutorial](https://ontology101tutorial.readthedocs.io/en/latest/)
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

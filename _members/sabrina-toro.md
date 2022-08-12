@@ -22,3 +22,6 @@ She has significant experience working with model organism data, and she has mad
 - Advanced Master’s Degree in Sciences, University of Liège, Belgium, 2003.
 - PhD, Sciences, University of Liege, Belgium, 2009.
 
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

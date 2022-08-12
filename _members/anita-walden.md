@@ -11,6 +11,6 @@ Anita is an Assistant Director for CD2H.
 Previously she worked at University of Arkansas for Medical Sciences as a faculty member in the Department of Biomedical Informatics, and at Duke University as a manager and senior informaticist.
 She has expertise in clinical research informatics, HL7, standards, digital health and community development
 
-### Departments
+### Department
 
-- [OCTRI](http://www.ohsu.edu/xd/research/centers-institutes/octri/)
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

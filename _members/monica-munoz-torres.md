@@ -20,3 +20,7 @@ Moni is an Associate Research Professor in the School of Medicine at the Univers
 
 - B.Sc. Biology and Genetics. Universidad del Valle, Colombia, 1999
 - Ph.D. Genetics, Clemson University, 2009
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

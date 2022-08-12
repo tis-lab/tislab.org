@@ -12,3 +12,7 @@ He has a BS in Computer Science from University of Oregon and significant experi
 ### Education
 
 - B.S., University of Oregon, Eugene Oregon United States 2009
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
