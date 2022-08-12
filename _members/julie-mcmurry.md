@@ -21,6 +21,6 @@ She is cross-trained in biomedical research, public health, project management, 
 - Certificate, Project Management, Bryant University, 2007
 - Coursework, Harvard University Extension School, 2012
 
-### Departments
+### Department
 
-Center for Health AI
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

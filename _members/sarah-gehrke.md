@@ -12,3 +12,7 @@ Sarah is a Project Manager with TISLab at the University of Colorado's Center fo
 
 ### Education
 B.S. Chemistry, University of Colorado, Colorado Springs, CO, 2012
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

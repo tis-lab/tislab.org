@@ -15,3 +15,7 @@ Bryan has training and experience in Molecular and Cellular Biology, Bioinformat
 
 - B.A. Biology, Reed College 2000
 - M.S. Bioinformatics and Computational Biology, Oregon Health and Science University 2015
+
+### Departments
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

@@ -15,3 +15,7 @@ Dr. Putman is a Molecular Biologist, Developer and Data Scientist and is current
 
 - B.S. General Science, University of Oregon 2009
 - Ph.D. Molecular and Cellular Biology, Oregon State University 2015
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

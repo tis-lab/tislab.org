@@ -25,3 +25,7 @@ Her demonstrated success in leadership of cross-disciplinary international teams
 
 - B.A., Chemistry, Reed College, 1991
 - Ph.D., Neuroscience, University of Wisconsin, 1999
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

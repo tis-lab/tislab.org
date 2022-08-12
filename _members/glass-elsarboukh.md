@@ -14,3 +14,6 @@ Glass is a Scientific Software Engineer with TISLab at University of Colorado's 
 
 - B.S. Physics, University of Colorado Denver 2020
 
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

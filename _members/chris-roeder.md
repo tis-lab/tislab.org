@@ -15,3 +15,7 @@ In addition to stints in research labs doing software engineering, data wranglin
 
 - B.A. Math and Computer Science, University of Colorado, Boulder, 1988
 - M.S. Computer Science, University of Colorado, Denver, 2006
+
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

@@ -15,6 +15,6 @@ Matt performs ontology development, data modeling, and curation for Monarch Init
 - Ph.D. in Molecular Cancer Biology, Duke University, 2000-2005
 - B.S. in Biology, University of Notre Dame, 1996-2000
 
-### Departments
+### Department
 
-- [OCTRI](http://www.ohsu.edu/xd/research/centers-institutes/octri/)
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

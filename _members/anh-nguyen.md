@@ -15,6 +15,6 @@ Anh is from the Bay Area and moved to Denver in late 2020.  She studied Politica
 
 - San Jose State University
 
-### Departments
+### Department
 
-De
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

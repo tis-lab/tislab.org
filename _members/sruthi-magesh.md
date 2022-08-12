@@ -15,6 +15,6 @@ She has three years of project and program management experience from a profit o
 
 - Masters in Information Systems, University of Colorado Denver, 2019
 
-### Departments
+### Department
 
-Department of Biomedical Informatics
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)

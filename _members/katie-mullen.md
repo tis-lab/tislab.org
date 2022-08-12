@@ -15,3 +15,6 @@ Katie Mullen is a Veterinary Postdoctoral Fellow. She is a Board-Certified Large
 - MS, Agricultural Economics, Cornell University, 2001
 - DVM, Cornell University, 2009
 
+### Department
+
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
