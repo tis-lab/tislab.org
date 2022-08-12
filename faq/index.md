@@ -44,4 +44,4 @@ Please send any information to info@tislab.org.
 
 TISLab is always happy to engage with new supporters and collaborators.
 Feel free to write directly to any TISLab member you would like to engage.
-If you are looking for employment opportunities, or a student or post-doc position, please see the Join Us page for information about open positions.
+If you are looking for employment opportunities, or a student or post-doc position, please see contact us at info@tislab.org to inquire about open positions.
