@@ -2,7 +2,6 @@
 name: Anita Walden
 image: images/team/anita-walden.jpg
 description: Assistant Director CD2H
-tier: second
 links:
   email: anita.walden@sagebase.org
 ---
