@@ -1,7 +1,7 @@
 ---
 name: Monica Munoz-Torres
 image: images/team/monica-munoz-torres.jpg
-description: Program Manager
+description: Program Director
 tier: second
 links:
   orcid: 0000-0001-8430-6039
@@ -10,11 +10,9 @@ links:
   linkedin: monimunozto
 ---
 
-Curating genomes sparked Moni's current scientific path, and she now manages software development projects aimed at facilitating how we draw insight from genomic and phenomic data across species.
-Moni is a highly accomplished genomics scientist with extensive experience at the computer and at the bench.
-She is a very experienced project manager, especializing in bioinformatics and genome curation efforts, and has been very successful in building and growing communities around genome curation.
-Moni currently serves as Director of Operations for the [Center for Cancer Data Harmonization](http://ccdh.cancer.gov/), a Program of the US NIH's National Cancer Institute, and also Program Director for the ["Phenomics First Resource"](https://tislab.org/research.html), an NHGRI Center of Excellence in Genomic Science.
-Moni is an Associate Research Professor in the School of Medicine at the University of Colorado Anschutz Medical Campus, and she is the Program Manager for the Translational and Integrative Sciences Lab (TISLab).
+My expertise, education, and enthusiasm span genomics, biocuration, knowledge representation, and data harmonization  – and the development of software tools and standards to advance these fields. The major motivations for my research are, first, to leverage the wealth of comparative genomics knowledge I’ve acquired over the past 2 decades to advance our understanding of human health and disease with translational and integrative data science – we need ALL the organisms! – and second, to continuously improve on socio-technological practices to build and coordinate research communities in these fields of study. I have dedicated considerable effort towards building a body of work focused on developing and growing research communities, and on developing the software tools & resources to democratize genomic and phenomic analysis and help these communities to better address their research questions.
+I lead the Standards Core in the BRIDGE Center project of the NIH [Bridge to Artificial Intelligence (Bridge2AI) Program](https://commonfund.nih.gov/bridge2ai). I am the Program Director for the ["Phenomics First Resource"](https://tislab.org/research.html), an NHGRI Center of Excellence in Genomic Science, and for the [Monarch Initiative](http://monarchinitiative.org/), the flagshop Program of TISLab.
+I am an Associate Professor in the Department of Biomedical Informatics in the School of Medicine at the University of Colorado Anschutz Medical Campus, and the Program Director for the Translational and Integrative Sciences Lab (TISLab).
 
 ### Education
 

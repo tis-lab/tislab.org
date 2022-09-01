@@ -2,6 +2,7 @@
 name: Tim E Putman
 image: images/team/tim-putman.jpg
 description: Technical Director
+tier: second
 links:
   orcid: 0000-0002-4291-0737
   twitter: putmantime

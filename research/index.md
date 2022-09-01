@@ -86,6 +86,21 @@ TISLab is leading this effort to innovate in computer science and biology to com
 
 {% include section.html %}
 
+### BRIDGE Center
+
+The Integration, Dissemination and Evaluation (BRIDGE) Center for the Bridge to Artificial Intelligence (Bridge2AI) Program will engage the scientific community across the development lifecycle, from data to standards to tools and algorithms, in order to ensure that data are ethically sourced, machine understandable, and easily integrated with other data. This award supports the work of the Standards and Teaming Cores in the BRIDGE Center. 
+
+The NIH established the Bridge2AI, an ambitious program focused on the fairness of Artificial Intelligence applications. In this sense, “fairness” refers to AI that is accurate, explainable, generalizable to diverse patients, researchers, and other stakeholder groups. Bridge2AI aims to understand what lessons and approaches are reusable across AI-based projects and domains and thereby catalyze AI solutions to complex biomedical and behavioral health challenges. The BRIDGE Center project assembles multiple institutions into a nexus that will foster next-generation activities answering the myriad of socio-technological issues that surround biomedical/behavioral data collection and its usage with AI.
+
+The BRIDGE Center Teaming Core will enable team science across Bridge2AI. The BRIDGE Center Standards Core aims to develop best practices to ensure that the standards implemented are as generalizable as possible in biomedical and behavioral applications (among other fields).
+
+Together, the Teaming and Standards Core at the University of Colorado Anschutz Medical Campus will support innovation for the next generation of Artificial Intelligence and Machine Learning in relation to biomedicine, behavioral applications, and beyond.
+
+**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
+**Funding:** NIH grant # U54 HG012513
+
+{% include section.html %}
+
 ### Forums for Integrative Phenomics
 
 TISLab is bursting through communication barriers to advance science.
@@ -136,7 +151,7 @@ Additional work is being done in collaboration with the INCLUDE (INvestigation o
 
 The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digital platform to easily access and share Down syndrome resources to maximize and accelerate research.
 
-**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
+**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
 **Funding:** Supported by the National Institutes of Health INCLUDE Project under Project Number U2CHL156291 administered by the National Heart, Lung and Blood Institute.
 
 {% include link.html type="home-page" link="https://includedcc.org/" icon="" text="" %}
@@ -155,7 +170,7 @@ The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digi
 NCATS studies translation on a system-wide level as a scientific and operational problem.
 TISLab convenes expert teams from diverse scientific disciplines — including, among others, efficacy, toxicity, data sharing, biomarkers and clinical application — to reduce, remove or bypass significant bottlenecks across the entire continuum of translation and to train the future translational science workforce.
 
-**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
+**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
 **Funding:** NCATS grant # 3 OT3 TR002019 01S2
 
 {% include link.html type="home-page" link="https://ncats.nih.gov/translator/" icon="" text="" %}
