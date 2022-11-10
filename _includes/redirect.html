@@ -1,0 +1,9 @@
+{% if page.title == "404" %}
+  <script id="redirect" data-src="redirect.js"></script>
+  <script>
+    console.log("hi")
+    // force browser to not load redirect script from cache
+    const script = document.getElementById("redirect");
+    script.src = script.dataset.src + "?v=" + Date.now();
+  </script>
+{% endif %}
