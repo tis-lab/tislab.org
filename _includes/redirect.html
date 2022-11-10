@@ -1,0 +1,8 @@
+{% if page.title == "404" %}
+  <script>
+    const script = document.createElement("script");
+    script.src = "redirect.js?v=" + Date.now(); // bust cache
+    script.async = false;
+    document.currentScript.after(script);
+  </script>
+{% endif %}
