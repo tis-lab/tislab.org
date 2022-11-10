@@ -4,7 +4,7 @@ let list = "W3siZnJvbSI6Im1lbHpvb20iLCJ0byI6Imh0dHBzOi8vdWNkZW52ZXIuem9vbS51cy9q
 list = JSON.parse(window.atob(list));
 
 // root where site is being hosted
-const baseurl = "/redirects-website";
+const baseurl = "";
 
 // normalize path. lower case, remove leading slashes, remove baseurl.
 const from = window.location.pathname
