@@ -9,7 +9,7 @@ links:
   linkedin: roederc
 ---
 
-In addition to stints in research labs doing software engineering, data wrangling and analysis, Chris has extensive experience as a software engineer at various businesses including startups like MapQuest and AppNexus. He holds a bachelor’s degree in math from CU Boulder and a master’s degree in computer science from UC Denver. His experience includes Java, Python, R, SQL, OMOP, and UIMA.
+Chris is a software engineer and analyst with the TISLab. He contributes to TISlab, N3C and Cardiology projects as a developer and analyst involving clinical data (OMOP, FHIR) and terminologies. Enjoying expanding his reportoire with R and deeper SQL, he holds an MS in computer science and has past experience in commercial Java, SQL, C and Unix/Linux development.
 
 ### Education
 
