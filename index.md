@@ -41,7 +41,7 @@ It brings together people and their data across extremely diverse disciplinary d
 - Accelerate Cancer Research
 - Promote Healthy Lifestyles
 
-This means that the research done in TISLab depends upon partnership and collaboration, across multiple disciplines both within the College of Agricultural Sciences and in other areas such as the Office of Institutional Diversity and the Chief Technology Office.
+This means that the research done in TISLab depends upon partnership and collaboration across multiple disciplines.
 
 {% include link.html link="research" text="Learn More" style="button" %}
 {:.center}
