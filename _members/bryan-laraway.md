@@ -4,7 +4,6 @@ image: images/team/bryan-laraway.jpg
 description: Scientific Software Engineer
 links:
   orcid: 0000-0002-0450-7074
-  twitter: bryan_j_laraway
   github: bryanlaraway
   linkedin: bryanlaraway
 ---
