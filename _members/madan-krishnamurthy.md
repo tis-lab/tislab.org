@@ -8,7 +8,7 @@ links:
   linkedin: madan-krishnamurthy
 ---
 
-Madan is a Semantic Engineer at TISLab. His primary research and work endeavors revolve around leveraging advanced data analytics techniques to extract valuable insights from biomedical and healthcare data, for constructing decision support systems.
+Madan is a Semantic Engineer at TISLab. His primary research and work endeavors revolve around leveraging advanced analytics techniques to extract valuable insights from biomedical and healthcare data, for constructing expert systems.
 
 
 ### Education
