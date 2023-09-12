@@ -1,6 +1,6 @@
 ---
 name: Megan Kraus
-image: 
+image: images/team/megan_kraus.jpg
 description: PhD Student
 links:
   email: megan.kraus@cuanschutz.edu
