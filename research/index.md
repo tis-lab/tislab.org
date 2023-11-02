@@ -283,26 +283,6 @@ To address these issues TISLab took a lead role in the Center for Cancer Data Ha
 
 {% include section.html %}
 
-### Flatten the Curve
-
-{%
-  include figure.html
-  image="images/research/flatten-the-curve.svg"
-  height="250px"
-%}
-
-We can all slow the spread of COVID-19 and “Flatten the Curve” together.
-Flatten the Curve provided reliable information reviewed by scientists delivered in as many languages as possible to help.
-
-**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
-**Funding:** NIH U24TR002306
-
-{% include link.html type="github" link="flattenthecurve" icon="" text="" %}
-{% include link.html type="twitter" link="FlattenCurve" icon="" text="" %}
-{:.center}
-
-{% include section.html %}
-
 ### [Undiagnosed Diseases Network (UDN)](https://undiagnosed.hms.harvard.edu/)
 
 We are part of the Metabolomics Core of the Undiagnosed Diseases Network (UDN). Our goals are to integrate metabolomics, lipidomics, glycomics, and genomics data with patient clinical phenotypes to provide mechanistic insight and aid diagnoses of rare and undiagnosed diseases. We are particularly involved in the integration of metabolites using existing pathway tools, reaction databases, and the integrated corpus of genotype-phenotype data within the Monarch platform for biological interpretation of disease etiology and biomarker signatures. We also started representing changes in glycomics signatures of patients with genetic diseases and undiagnosed diseases with the Molecular Glyco-Phenotype Ontology (MGPO) so as to enhance Human Phenotype Ontology and model data corpus to best leverage these phenotypic changes in the Exomiser tool.
