@@ -61,6 +61,26 @@ This project forms the basis of a Center of Excellence in Genomic Science, a pro
 
 {% include section.html %}
 
+### Center for Linkage and Acquisition of Data
+
+{%
+  include figure.html
+  image="images/research/clad.png"
+  height="250px"
+%}
+
+The All of Us Center for Linkage and Acquisition of Data (CLAD) expands the types and research utility of program data available to researchers through passive data streams. CLAD acquires and processes linked data within a secure platform before delivering it to the All of Us Data and Research Center. The CLAD team is also responsible for developing analytical tools to help researchers jumpstart their analyses when using the linked data.
+
+**Contact:** [Anita Walden](mailto:anita.walden@cuanschutz.edu)  
+**Funding:**  NIH Office of the Director, # OTA-23-003 
+
+{% include link.html type="home-page" link="https://allofus.nih.gov/funding-and-program-partners/center-for-linkage-and-aquisition-of-data" icon="" text="" %}
+{:.center}
+
+
+
+{% include section.html %}
+
 ### Converging Genomics, Phenomics, and Environments Using Interpretable Machine Learning Models
 
 {%
