@@ -74,6 +74,9 @@ The All of Us Center for Linkage and Acquisition of Data (CLAD) expands the type
 **Contact:** [Anita Walden](mailto:anita.walden@cuanschutz.edu)  
 **Funding:**  NIH Office of the Director, # OTA-23-003 
 
+{% include link.html type="home-page" link="https://allofus.nih.gov/funding-and-program-partners/center-for-linkage-and-aquisition-of-data" icon="" text="" %}
+
+
 
 {% include section.html %}
 
