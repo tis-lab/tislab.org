@@ -71,8 +71,8 @@ This project forms the basis of a Center of Excellence in Genomic Science, a pro
 
 The All of Us Center for Linkage and Acquisition of Data (CLAD) expands the types and research utility of program data available to researchers through passive data streams. CLAD acquires and processes linked data within a secure platform before delivering it to the All of Us Data and Research Center. The CLAD team is also responsible for developing analytical tools to help researchers jumpstart their analyses when using the linked data.
 
-**Contact:** [Anita Walden](mailto:anita@tislab.org)  
-**Funding:**  NIH Office of the Director,  OTA-23-003 
+**Contact:** [Anita Walden](mailto:anita.walden@cuanschutz.edu)  
+**Funding:**  NIH Office of the Director, # OTA-23-003 
 
 
 {% include section.html %}
