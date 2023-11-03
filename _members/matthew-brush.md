@@ -7,7 +7,7 @@ links:
   email: matt@tislab.org
 ---
 
-Matt is a Research Assistant Professor at Oregon Health & Science University
+Matt is a Research Assistant Professor at University of Colorado Anschutz School of Medicine
 Matt performs ontology development, data modeling, and curation for Monarch Initiative.
 
 ### Education
