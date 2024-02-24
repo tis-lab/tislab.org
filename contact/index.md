@@ -7,8 +7,11 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi).
-We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
+We are a geographically distributed team
+
+Our lab is currently part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi).
+
+As of April 15, 2024 the TISLab will be institutionally based at the [University of North Carolina's Genetics Department]([url](https://www.med.unc.edu/genetics/))
 
 {%
   include link.html
