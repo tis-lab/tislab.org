@@ -81,31 +81,6 @@ The All of Us Center for Linkage and Acquisition of Data (CLAD) expands the type
 
 {% include section.html %}
 
-### Converging Genomics, Phenomics, and Environments Using Interpretable Machine Learning Models
-
-{%
-  include figure.html
-  image="images/research/translational-science.png"
-  height="250px"
-%}
-
-TISLab is revolutionizing our understanding of how genes are transformed into organism traits in a changing environment.
-One of the central dogmas of biology is that genes and environments work together to determine the characteristics of an organism, or its phenotype.
-Yet, being able to predict with precision what an organism will look like or do based on its genes and environment has, for the most part, remained out of reach.
-Turns out, there’s a lot going on in a cell and in an organism that we just don’t understand which has a huge impact on how that organism looks and behaves.
-In addition to revolutionizing the way we think about how genes are expressed, we have to develop brand new ways of transforming and analyzing data so we can make best use of innovations in artificial intelligence and deep learning.
-TISLab is leading this effort to innovate in computer science and biology to combat the negative effects of climate change on public health, conservation, and agriculture.
-
-**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
-**Funding:** Office of Advanced Cyberinfrastructure (OAC), NSF Award #1940062
-
-{% include link.html type="home-page" link="https://genophenoenvo.github.io/" icon="" text="" %}
-{% include link.html type="github" link="genophenoenvo" icon="" text="" %}
-{% include link.html type="twitter" link="GenoPhenoEnvo" icon="" text="" %}
-{:.center}
-
-{% include section.html %}
-
 ### BRIDGE Center
 
 The Integration, Dissemination and Evaluation (BRIDGE) Center for the Bridge to Artificial Intelligence (Bridge2AI) Program will engage the scientific community across the development lifecycle, from data to standards to tools and algorithms, in order to ensure that data are ethically sourced, machine understandable, and easily integrated with other data. This award supports the work of the Standards and Teaming Cores in the BRIDGE Center. 
@@ -199,30 +174,6 @@ TISLab convenes expert teams from diverse scientific disciplines — including, 
 
 {% include section.html %}
 
-### CD2H: Harmonizing the Informatics Community
-
-{%
-  include figure.html
-  image="images/research/cd2h.png"
-  height="250px"
-%}
-
-TISLab is leading the National Center for Data to Health (CD2H) using team science and translational research to improve patient care.
-CD2H accelerates advancements in informatics by using findable, accessible, interoperable, and reusable (FAIR) principles to promote collaboration across the Clinical and Translational Science Awards (CTSA) Program community.
-CD2H tools and resources make it simple and valuable for CTSA Program members to get engaged, connect with peers, and contribute.
-By promoting collaboration, CD2H fosters a robust translational science informatics ecosystem that collectively develops solutions to solve clinical problems faster, more efficiently, and more effectively.
-CTSA Program members are poised to lead this charge by harnessing collective expertise and strengths to solve key informatics challenges.
-
-**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
-**Funding:** NCATS grant # U24TR002306
-
-{% include link.html type="home-page" link="https://cd2h.org/" icon="" text="" %}
-{% include link.html type="github" link="data2health" icon="" text="" %}
-{% include link.html type="twitter" link="data2health" icon="" text="" %}
-{:.center}
-
-{% include section.html %}
-
 ### National COVID Cohort Collaborative (N3C)
 
 {%
@@ -258,6 +209,56 @@ TISLab is laying the foundation for a new community-driven effort to build data 
 {% include section.html %}
 
 # <i class="fas fa-microscope"></i>Past Research
+
+{% include section.html %}
+
+### CD2H: Harmonizing the Informatics Community
+
+{%
+  include figure.html
+  image="images/research/cd2h.png"
+  height="250px"
+%}
+
+TISLab is leading the National Center for Data to Health (CD2H) using team science and translational research to improve patient care.
+CD2H accelerates advancements in informatics by using findable, accessible, interoperable, and reusable (FAIR) principles to promote collaboration across the Clinical and Translational Science Awards (CTSA) Program community.
+CD2H tools and resources make it simple and valuable for CTSA Program members to get engaged, connect with peers, and contribute.
+By promoting collaboration, CD2H fosters a robust translational science informatics ecosystem that collectively develops solutions to solve clinical problems faster, more efficiently, and more effectively.
+CTSA Program members are poised to lead this charge by harnessing collective expertise and strengths to solve key informatics challenges.
+
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
+**Funding:** NCATS grant # U24TR002306
+
+{% include link.html type="home-page" link="https://cd2h.org/" icon="" text="" %}
+{% include link.html type="github" link="data2health" icon="" text="" %}
+{% include link.html type="twitter" link="data2health" icon="" text="" %}
+{:.center}
+
+
+{% include section.html %}
+
+### Converging Genomics, Phenomics, and Environments Using Interpretable Machine Learning Models
+
+{%
+  include figure.html
+  image="images/research/translational-science.png"
+  height="250px"
+%}
+
+TISLab is revolutionizing our understanding of how genes are transformed into organism traits in a changing environment.
+One of the central dogmas of biology is that genes and environments work together to determine the characteristics of an organism, or its phenotype.
+Yet, being able to predict with precision what an organism will look like or do based on its genes and environment has, for the most part, remained out of reach.
+Turns out, there’s a lot going on in a cell and in an organism that we just don’t understand which has a huge impact on how that organism looks and behaves.
+In addition to revolutionizing the way we think about how genes are expressed, we have to develop brand new ways of transforming and analyzing data so we can make best use of innovations in artificial intelligence and deep learning.
+TISLab is leading this effort to innovate in computer science and biology to combat the negative effects of climate change on public health, conservation, and agriculture.
+
+**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
+**Funding:** Office of Advanced Cyberinfrastructure (OAC), NSF Award #1940062
+
+{% include link.html type="home-page" link="https://genophenoenvo.github.io/" icon="" text="" %}
+{% include link.html type="github" link="genophenoenvo" icon="" text="" %}
+{% include link.html type="twitter" link="GenoPhenoEnvo" icon="" text="" %}
+{:.center}
 
 {% include section.html %}
 
