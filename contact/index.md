@@ -35,5 +35,5 @@ Our lab is based at the [University of North Carolina's Genetics Department](htt
   include figure.html
   image="images/uncchlogo.png"
   width="400px"
-  link="https://medschool.cuanschutz.edu/"
+  link="https://www.med.unc.edu/genetics/"
 %}
