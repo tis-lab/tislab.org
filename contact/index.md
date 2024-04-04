@@ -9,9 +9,7 @@ nav:
 
 We are a geographically distributed team
 
-Our lab is currently part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi).
-
-As of April 15, 2024 the TISLab will be institutionally based at the [University of North Carolina's Genetics Department](https://www.med.unc.edu/genetics/)
+Our lab is based at the [University of North Carolina's Genetics Department](https://www.med.unc.edu/genetics/) starting April 15, 2024.
 
 {%
   include link.html
@@ -35,7 +33,7 @@ As of April 15, 2024 the TISLab will be institutionally based at the [University
 
 {%
   include figure.html
-  image="images/anschutz-logo.png"
+  image="images/uncchlogo.png"
   width="400px"
   link="https://medschool.cuanschutz.edu/"
 %}
