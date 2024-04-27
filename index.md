@@ -38,7 +38,6 @@ It brings together people and their data across extremely diverse disciplinary d
 - Cope with Climate Change
 - Facilitate knowledge discovery for Covid-19
 - Improve Rare Disease Diagnosis and Treatment
-- Accelerate Cancer Research
 - Promote Healthy Lifestyles
 
 This means that the research done in TISLab depends upon partnership and collaboration across multiple disciplines.
