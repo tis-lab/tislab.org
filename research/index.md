@@ -95,21 +95,6 @@ Together, the Teaming and Standards Core at the University of Colorado Anschutz 
 
 {% include section.html %}
 
-### Forums for Integrative Phenomics
-
-TISLab is bursting through communication barriers to advance science.
-One of the biggest barriers to scientific advancement is lack of communication across different kinds of expertise, especially between researchers who study genetics, environmental science, and phenomics.
-This results in data that are totally incompatible with each other and blocks scientific progress.
-The goal of this project is to bring together a diverse range of research scientists and clinicians from these three areas to find ways to communicate and share data.
-Unified data enables new insights in relationships between diseases, genes, and environments in a wide range of species.
-TISLab is creating new discoveries by planning and hosting workshops for creating new data standards that act as a “rosetta stone” between disciplines.
-
-
-**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
-**Funding:** NIH grant # 1 U13 CA221044-01
-
-{% include section.html %}
-
 ### Gabriella Miller Kids First Pediatric Data Resource Center
 
 {%
@@ -275,6 +260,22 @@ By building tools like an interactive, searchable Discovery Index to identify in
 {:.center}
 
 {% include section.html %}
+
+### Forums for Integrative Phenomics
+
+TISLab is bursting through communication barriers to advance science.
+One of the biggest barriers to scientific advancement is lack of communication across different kinds of expertise, especially between researchers who study genetics, environmental science, and phenomics.
+This results in data that are totally incompatible with each other and blocks scientific progress.
+The goal of this project is to bring together a diverse range of research scientists and clinicians from these three areas to find ways to communicate and share data.
+Unified data enables new insights in relationships between diseases, genes, and environments in a wide range of species.
+TISLab is creating new discoveries by planning and hosting workshops for creating new data standards that act as a “rosetta stone” between disciplines.
+
+
+**Contact:** [Julie McMurry](mailto:julie@tislab.org)  
+**Funding:** NIH grant # 1 U13 CA221044-01
+
+{% include section.html %}
+
 
 ### Center for Cancer Data Harmonization
 
