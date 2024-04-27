@@ -34,7 +34,6 @@ Monarch is a collaboration among members TISLab, Lawrence Berkeley National Labo
 
 {% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
 {% include link.html type="github" link="monarch-initiative" icon="" text="" %}
-{% include link.html type="twitter" link="monarchinit" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
@@ -129,7 +128,6 @@ Additional work is being done in collaboration with the INCLUDE (INvestigation o
 
 {% include link.html type="home-page" link="https://kidsfirstdrc.org/" icon="" text="" %}
 {% include link.html type="github" link="kids-first" icon="" text="" %}
-{% include link.html type="twitter" link="kidsfirstDRC" icon="" text="" %}
 {% include link.html type="youtube" link="channel/UCK9sPu0j4_ci4m3nNFa6gVw" icon="" text="" %}
 {% include link.html type="facebook" link="kidsfirstDRC" icon="" text="" %}
 {:.center}
@@ -194,7 +192,6 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {% include link.html type="home-page" link="https://ncats.nih.gov/n3c/" icon="" text="" %}
 {% include link.html type="github" link="National-COVID-Cohort-Collaborative" icon="" text="" %}
-{% include link.html type="twitter" link="N3C" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
@@ -231,7 +228,6 @@ CTSA Program members are poised to lead this charge by harnessing collective exp
 
 {% include link.html type="home-page" link="https://cd2h.org/" icon="" text="" %}
 {% include link.html type="github" link="data2health" icon="" text="" %}
-{% include link.html type="twitter" link="data2health" icon="" text="" %}
 {:.center}
 
 
@@ -257,7 +253,6 @@ TISLab is leading this effort to innovate in computer science and biology to com
 
 {% include link.html type="home-page" link="https://genophenoenvo.github.io/" icon="" text="" %}
 {% include link.html type="github" link="genophenoenvo" icon="" text="" %}
-{% include link.html type="twitter" link="GenoPhenoEnvo" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
