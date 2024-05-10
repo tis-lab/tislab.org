@@ -8,7 +8,7 @@ links:
   linkedin: glass-ships
 ---
 
-Glass is a Scientific Software Engineer with TISLab at University of Colorado's Center for Health AI. They have a background in Physics and maintaining Dark Matter analysis software, with a special interest in enabling science and research through effective computational infrastructures. In their freetime, Glass enjoys self-producing music and playing with their cat. 
+Research Software Engineer with a background in physics, a love for cats and passion for film and music (fellow metalheads, reach out!) 
 
 ### Education
 
@@ -16,4 +16,4 @@ Glass is a Scientific Software Engineer with TISLab at University of Colorado's 
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

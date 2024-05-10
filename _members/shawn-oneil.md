@@ -20,4 +20,4 @@ Shawn is the author of [A Primer for Computational Biology](https://open.oregons
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

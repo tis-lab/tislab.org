@@ -8,15 +8,13 @@ links:
   linkedin: eric-hurwitz-76654b184
 ---
 
-Eric Hurwitz is a Postdoctoral Fellow.
-His research leverages a variety of large-scale biomedical data to enrich personal health. 
-The predominant area of his work focuses on digital health and wearable technology coupled with machine learning for early disease detection and enhanced patient monitoring. 
-He is also actively involved in research with the National COVID Cohort Collaborative (N3C) studying the interplay between COVID-19 and HIV.
+I have an educational background is in Biochemistry & Molecular Genetics and having been working as a software developer in science for about 10 years.
 
 ### Education
+
 - BS, Biochemistry, University of Mary Washington, 2018
 - PhD, Clinical and Translational Science (Cancer and Molecular Medicine concentration), Virginia Commonwealth University, 2023
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

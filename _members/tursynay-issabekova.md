@@ -16,4 +16,4 @@ She joins us from OSU's Office of the Registrar, where she gained strong analyti
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)
