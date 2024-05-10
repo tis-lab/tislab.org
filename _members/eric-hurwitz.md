@@ -8,7 +8,9 @@ links:
   linkedin: eric-hurwitz-76654b184
 ---
 
-I have an educational background is in Biochemistry & Molecular Genetics and having been working as a software developer in science for about 10 years.
+I am a postdoctoral fellow interested in leveraging digital and mobile health technologies with machine learning and personalized digital phenotyping for early disease detection.
+
+
 
 ### Education
 
