@@ -18,4 +18,4 @@ Aaron is a bioinformatics scientist and Python programmer. He holds a B.A. in bi
 
 ### Department
 
-[Department of Genetics](https://www.med.unc.edu/genetics/)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics/)
