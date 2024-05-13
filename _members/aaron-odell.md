@@ -1,6 +1,6 @@
 ---
 name: Aaron Odell
-image: images/team/aaron-odell.jpg
+image: images/team/aaron-odell.png
 description: Research Associate
 links:
   email: aaron@tislab.org
