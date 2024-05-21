@@ -18,8 +18,7 @@ links:
 
 ### Bio
 
-Melissa's vision is to fundamentally alter the fabric of biomedical science, utilizing her art as a data translator to weave together healthcare systems, basic science research, and patients; through development of data integration technologies, innovative communication strategies, and collaborative education and outreach.
-Her demonstrated success in leadership of cross-disciplinary international teams, development of applications used for rare disease diagnostics, implementation of platforms and tools for translational research, and open and reproducible science will serve her and the community at large to effect real change.
+I was trained initially in molecular genetics and developmental biology, and later in semantic engineering. I am passionate about advancing public health technologies and rare disease diagnostics and care through data integration strategies. I love gardening, cooking, and traveling (to eat many cuisines!).
 
 ### Education
 
@@ -28,4 +27,4 @@ Her demonstrated success in leadership of cross-disciplinary international teams
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

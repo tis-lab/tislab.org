@@ -23,4 +23,4 @@ She is cross-trained in biomedical research, public health, project management, 
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

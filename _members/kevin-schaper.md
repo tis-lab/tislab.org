@@ -15,4 +15,4 @@ He has a BS in Computer Science from University of Oregon and significant experi
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

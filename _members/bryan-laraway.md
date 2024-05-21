@@ -8,13 +8,13 @@ links:
   linkedin: bryanlaraway
 ---
 
-Bryan has training and experience in Molecular and Cellular Biology, Bioinformatics and Computational Biology, and Clinical Informatics, and is currently a Scientific Software Engineer with TISLab. He has a M.S. in Bioinformatics and Computational Biology from Oregon Health and Science University.
+I'm a biomedical informatics researcher with interests in rare disease research and COVID research. Experienced in biological research, EHR data, OMOP, and utilizing our exciting tools on real world data (e.g. using semantic similarity to identify undiagnosed rare disease patients/patients with diseases lacking diagnostic codes in EHR data).
 
 ### Education
 
 - B.A. Biology, Reed College 2000
 - M.S. Bioinformatics and Computational Biology, Oregon Health and Science University 2015
 
-### Departments
+### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

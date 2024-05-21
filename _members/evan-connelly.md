@@ -14,6 +14,6 @@ Evan is currently a student at MSOE studying Chemical and Biomolecular Engineeri
 
 - B.S. Chemical and Biomolecular Engineering, Milwaukee School of Engineering, 2024
 
-### Departments
+### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

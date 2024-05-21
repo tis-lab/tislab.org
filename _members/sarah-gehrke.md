@@ -15,4 +15,4 @@ B.S. Chemistry, University of Colorado, Colorado Springs, CO, 2012
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)

@@ -8,7 +8,7 @@ links:
   linkedin: corey-cox-7523a18
 ---
 
-Corey Cox is a biochemist, developer, and data scientist and is currently a Scientific Software Engineer for TISLab. He has substantial lab experience and undergraduate degrees in Biochemistry and Molecular Biology with a Masters in Biomedical Science and Biotechnology as part of merging his loves of technology and science over the last decade. Corey hopes to leverage experience in data QA/QC, visualization, and analysis to help create robust datasets and pipelines for applying Artificial Intelligence to improving healthcare outcomes.
+I have an educational background is in Biochemistry & Molecular Genetics and having been working as a software developer in science for about 10 years.
 
 ### Education
 
@@ -17,4 +17,4 @@ Corey Cox is a biochemist, developer, and data scientist and is currently a Scie
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)
