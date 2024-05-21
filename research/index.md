@@ -148,7 +148,7 @@ The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digi
 NCATS studies translation on a system-wide level as a scientific and operational problem.
 TISLab convenes expert teams from diverse scientific disciplines — including, among others, efficacy, toxicity, data sharing, biomarkers and clinical application — to reduce, remove or bypass significant bottlenecks across the entire continuum of translation and to train the future translational science workforce.
 
-**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
+**Contact:** [Matt Brush](mailto:matt@tislab.org)  
 **Funding:** NCATS grant # 3 OT3 TR002019 01S2
 
 {% include link.html type="home-page" link="https://ncats.nih.gov/translator/" icon="" text="" %}
