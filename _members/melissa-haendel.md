@@ -13,8 +13,7 @@ links:
 ### Roles
 
 - Director of the Translational and Integrative Sciences Laboratory
-- Chief Research Informatics Officer at University of Colorado Anschutz Medical Campus
-- Director of the [Center for Data to Health](https://cd2h.org/)
+- Sarah Graham Kenan Distinguished Professor, Director of Precision Health & Translational Informatics, Deputy Director of Computational Science – NC TRACS at University of North Carolina Department of Genetics
 
 ### Bio
 
