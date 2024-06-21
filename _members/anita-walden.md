@@ -3,12 +3,11 @@ name: Anita Walden
 image: images/team/anita-walden.jpg
 description: Assistant Director CD2H
 links:
-  email: anita.walden@sagebase.org
+  email: anita@tislab.org
 ---
 
-Anita is an Assistant Director for CD2H.
-Previously she worked at University of Arkansas for Medical Sciences as a faculty member in the Department of Biomedical Informatics, and at Duke University as a manager and senior informaticist.
-She has expertise in clinical research informatics, HL7, standards, digital health and community development
+Anita is the Associate Director of Translational and Integrative Initiatives.
+As a Clinical Research Informaticist, her interest is in developing methods to enhance the clinical and clinical research process for clinicians, research teams, and study participants by facilitating interoperability and integration. She possesses expertise in clinical informatics standards, digital health, and community-based research. Currently, she manages day-to-day research operations for large national coordinating centers and Electronic Health Record (EHR) initiatives.
 
 ### Department
 
