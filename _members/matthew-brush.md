@@ -7,7 +7,7 @@ links:
   email: matt@tislab.org
 ---
 
-Matt is a Research Assistant Professor at University of Colorado Anschutz School of Medicine
+Matt is a Research Assistant Professor at University of North Carolina Chapel Hill Department of Genetics
 Matt performs ontology development, data modeling, and curation for Monarch Initiative.
 
 ### Education
