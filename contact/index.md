@@ -24,7 +24,7 @@ We are a geographically distributed team. Our lab is based at the [University of
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Genetic+Medicine+Building/@35.9014048,-79.0543985,17z/data=!3m1!4b1!4m6!3m5!1s0x89acc3903cfccd29:0xa3012e6cb634b2d5!8m2!3d35.9014048!4d-79.0543985!16s%2Fg%2F11trh7sh82?entry=ttu"
   style="button"
 %}
 {:.center}
