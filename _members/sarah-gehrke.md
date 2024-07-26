@@ -8,7 +8,7 @@ links:
   linkedin: sarahgehrke 
 ---
 
-Sarah is a Project Manager with TISLab at the University of North Carolina Chapel Hill Department of Genetics. They are a trained analytical chemist with a diverse background in industry labs, researching coal/natural gas remediation and biomass conversion technologies. Most recently, they participated in metabolomics mass spectrometry research at the CU Anschutz medical campus and were finance manager for the Structural Biology and Biochemistry Cores. Sarah is highly interested in data presentation and dissemination and is passionate about connecting people to make fundamental, positive changes that impact the wellness of our communities.
+Sarah is a Project Manager with TISLab at the University of North Carolina Chapel Hill Department of Genetics. Sarah is a trained analytical chemist with a diverse background in industry labs, researching coal/natural gas remediation and biomass conversion technologies. Sarah supported metabolomics mass spectrometry research at the University of Colorado Anschutz Medical Campus (CU-AMC) and was finance manager for the CU-AMC School of Medicine Structural Biology and Biochemistry Cores before transitioning to Project Manager for the TISLab in 2022. Sarah is passionate about connecting people to make fundamental, positive changes that impact the wellness of our communities.
 
 ### Education
 B.S. Chemistry, University of Colorado, Colorado Springs, CO, 2012
