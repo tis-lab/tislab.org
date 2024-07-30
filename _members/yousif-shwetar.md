@@ -5,7 +5,7 @@ description: MD-PhD Student
 links:
   orcid: 0000-0002-0587-4693
   github: yshwetar
-  linkedin: yousif-shweyat-8aab46128
+  linkedin: yousif-shwetar-8aab46128
 ---
 
 I am an MD-PhD student focused on leveraging wearable devices for early disease detection and utilizing imaging technologies to automate diagnostic testing.
