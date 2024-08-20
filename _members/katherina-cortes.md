@@ -1,6 +1,6 @@
 ---
 name: Katherina Cortes
-image: 
+image: katherina-cortes.jpg
 description: PhD Student
 links:
   orcid: 0000-0002-9489-3158
