@@ -45,10 +45,6 @@ Are you passionate about cutting-edge research and making a real impact in scien
 - **Collaborative Environment:** Engage with diverse minds and experts in their fields.
 - **Career Growth:** Opportunities for professional development and learning.
 
-**Current Openings:**
-- [Research Program Manager](https://unc.peopleadmin.com/postings/282663)
-- [Temporary Administrative Support Specialist](https://unc.peopleadmin.com/postings/283884)
-
 **Upcoming Openings - Stay Tuned:**
 - Semantic Software Engineer
 - Business Services Coordinator
