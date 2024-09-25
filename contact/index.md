@@ -45,11 +45,13 @@ Are you passionate about cutting-edge research and making a real impact in scien
 - **Collaborative Environment:** Engage with diverse minds and experts in their fields.
 - **Career Growth:** Opportunities for professional development and learning.
 
+**Apply now! Current Postings:**
+- [IT Web Developer 2 (Front End Developer)](https://unc.peopleadmin.com/postings/288709)  
+
 **Upcoming Openings - Stay Tuned:**
 - Semantic Software Engineer
 - Business Services Coordinator
 - Communications and Marketing Specialist
-- Frontend Web developer
 - Biocurator
 - Computational Biologist Postdoc
 - IT Program Specialist
