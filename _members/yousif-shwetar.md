@@ -5,10 +5,10 @@ description: MD-PhD Student
 links:
   orcid: 0000-0002-0587-4693
   github: yshwetar
-  linkedin: yousif-shwetar-8aab46128
+  linkedin: yousif-shwetar
 ---
 
-I am an MD-PhD student focused on leveraging wearable devices for early disease detection and utilizing imaging technologies to automate diagnostic testing.
+Yousif is an MD-PhD student in the Medical Scientist Training Program (MSTP) at UNC, pursuing a PhD in the Department of Biomedical Engineering. He holds a Bachelor's degree in Biomedical Engineering from the University of Pittsburgh. His PhD research focuses on ocular diseases, ranging from utilizing wearables for phenotype clustering to employing artificial intelligence in medical imaging for prognostication. He also contributes as a biocurator on multiple working groups at the NIH and MONDO disease ontology.
 
 ### Education
 
