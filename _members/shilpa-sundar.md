@@ -1,6 +1,6 @@
 ---
 name: Shilpa Sundar
-image: images/team/Shilpa Sundar
+image: images/team/shilpa-sundar.jpg
 description: PhD Student
 links:
   orcid: 0000-0003-4097-3395
@@ -17,4 +17,4 @@ I am an enthusiastic and forward-thinking healthcare professional committed to l
 
 ### Department
 
-Carolina Health Informatics Program (CHIP) [https://chip.unc.edu/]
+[Carolina Health Informatics Program](https://chip.unc.edu/)
