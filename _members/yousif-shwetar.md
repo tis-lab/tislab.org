@@ -1,6 +1,6 @@
 ---
 name: Yousif Shwetar
-image: images/team/yousif-shwetar.jpg
+image: images/team/yousif-shwetar.png
 description: MD-PhD Student
 links:
   orcid: 0000-0002-0587-4693
