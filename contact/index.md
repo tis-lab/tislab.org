@@ -46,13 +46,12 @@ Are you passionate about cutting-edge research and making a real impact in scien
 - **Career Growth:** Opportunities for professional development and learning.
 
 **Apply now! Current Postings:**
-- [IT Web Developer 2 (Front End Developer)](https://unc.peopleadmin.com/postings/288709)  
+- [Research Associate - Biocurator 2](https://unc.peopleadmin.com/postings/290540)
 
 **Upcoming Openings - Stay Tuned:**
 - Semantic Software Engineer
 - Business Services Coordinator
 - Communications and Marketing Specialist
-- Biocurator
 - Computational Biologist Postdoc
 - IT Program Specialist
 
