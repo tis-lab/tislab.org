@@ -29,7 +29,7 @@ Through the CEGS project, scientists and physicians at four institutions in the 
 
 Monarch is a collaboration among members TISLab, Lawrence Berkeley National Laboratory, The Jackson Laboratory For Genomic Medicine, RTI International, Genomics England/Queen Mary, Ada Health, and EMBL-EBI
 
-**Contact:** [Melissa Haendel](mhaendel@email.unc.edu) 
+**Contact:** [Melissa Haendel](mhaendel@email.unc.edu)
 **Funding:** NIH grant # 1R24OD011883-01 and NHGRI 1RM1HG010860-01
 
 {% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
