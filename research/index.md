@@ -29,7 +29,7 @@ Through the CEGS project, scientists and physicians at four institutions in the 
 
 Monarch is a collaboration among members TISLab, Lawrence Berkeley National Laboratory, The Jackson Laboratory For Genomic Medicine, RTI International, Genomics England/Queen Mary, Ada Health, and EMBL-EBI
 
-**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
+**Contact:** [Melissa Haendel](mhaendel@email.unc.edu) 
 **Funding:** NIH grant # 1R24OD011883-01 and NHGRI 1RM1HG010860-01
 
 {% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
@@ -55,7 +55,7 @@ Phenomics can be applied in a range of fields, but in this case the researchers 
 The PFR will gather and unify the data from numerous sources to advance genomic interpretation in clinical settings, and will empower both researchers and clinicians to overcome long-standing barriers to discovery and patient care.
 This project forms the basis of a Center of Excellence in Genomic Science, a program of the National Human Genome Research Institute (NHGRI), from the National Institutes of Health (NIH).
 
-**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
+**Contact:** [Melissa Haendel](mhaendel@email.unc.edu)  
 **Funding:** NHGRI
 
 {% include section.html %}
@@ -76,22 +76,6 @@ The All of Us Center for Linkage and Acquisition of Data (CLAD) expands the type
 {% include link.html type="home-page" link="https://allofus.nih.gov/funding-and-program-partners/center-for-linkage-and-aquisition-of-data" icon="" text="" %}
 {:.center}
 
-
-
-{% include section.html %}
-
-### BRIDGE Center
-
-The Integration, Dissemination and Evaluation (BRIDGE) Center for the Bridge to Artificial Intelligence (Bridge2AI) Program will engage the scientific community across the development lifecycle, from data to standards to tools and algorithms, in order to ensure that data are ethically sourced, machine understandable, and easily integrated with other data. This award supports the work of the Standards and Teaming Cores in the BRIDGE Center. 
-
-The NIH established the Bridge2AI, an ambitious program focused on the fairness of Artificial Intelligence applications. In this sense, “fairness” refers to AI that is accurate, explainable, generalizable to diverse patients, researchers, and other stakeholder groups. Bridge2AI aims to understand what lessons and approaches are reusable across AI-based projects and domains and thereby catalyze AI solutions to complex biomedical and behavioral health challenges. The BRIDGE Center project assembles multiple institutions into a nexus that will foster next-generation activities answering the myriad of socio-technological issues that surround biomedical/behavioral data collection and its usage with AI.
-
-The BRIDGE Center Teaming Core will enable team science across Bridge2AI. The BRIDGE Center Standards Core aims to develop best practices to ensure that the standards implemented are as generalizable as possible in biomedical and behavioral applications (among other fields).
-
-Together, the Teaming and Standards Core at the University of Colorado Anschutz Medical Campus will support innovation for the next generation of Artificial Intelligence and Machine Learning in relation to biomedicine, behavioral applications, and beyond.
-
-**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
-**Funding:** NIH grant # U54 HG012513
 
 {% include section.html %}
 
@@ -129,7 +113,7 @@ Additional work is being done in collaboration with the INCLUDE (INvestigation o
 
 The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digital platform to easily access and share Down syndrome resources to maximize and accelerate research.
 
-**Contact:** [Monica Munoz-Torres](mailto:moni@tislab.org)  
+**Contact:** [Melissa Haendel](mhaendel@email.unc.edu)   
 **Funding:** Supported by the National Institutes of Health INCLUDE Project under Project Number U2CHL156291 administered by the National Heart, Lung and Blood Institute.
 
 {% include link.html type="home-page" link="https://includedcc.org/" icon="" text="" %}
@@ -182,6 +166,21 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 {% include section.html %}
 
 # <i class="fas fa-microscope"></i>Past Research
+
+{% include section.html %}
+
+### BRIDGE Center
+
+The Integration, Dissemination and Evaluation (BRIDGE) Center for the Bridge to Artificial Intelligence (Bridge2AI) Program will engage the scientific community across the development lifecycle, from data to standards to tools and algorithms, in order to ensure that data are ethically sourced, machine understandable, and easily integrated with other data. This award supports the work of the Standards and Teaming Cores in the BRIDGE Center. 
+
+The NIH established the Bridge2AI, an ambitious program focused on the fairness of Artificial Intelligence applications. In this sense, “fairness” refers to AI that is accurate, explainable, generalizable to diverse patients, researchers, and other stakeholder groups. Bridge2AI aims to understand what lessons and approaches are reusable across AI-based projects and domains and thereby catalyze AI solutions to complex biomedical and behavioral health challenges. The BRIDGE Center project assembles multiple institutions into a nexus that will foster next-generation activities answering the myriad of socio-technological issues that surround biomedical/behavioral data collection and its usage with AI.
+
+The BRIDGE Center Teaming Core will enable team science across Bridge2AI. The BRIDGE Center Standards Core aims to develop best practices to ensure that the standards implemented are as generalizable as possible in biomedical and behavioral applications (among other fields).
+
+Together, the Teaming and Standards Core at the University of Colorado Anschutz Medical Campus will support innovation for the next generation of Artificial Intelligence and Machine Learning in relation to biomedicine, behavioral applications, and beyond.
+
+**Contact:** [Monica Munoz-Torres](mailto:monica.munoz-torres@cuanschutz.edu)  
+**Funding:** NIH grant # U54 HG012513
 
 {% include section.html %}
 
