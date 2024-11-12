@@ -146,9 +146,9 @@ The INCLUDE Data Coordinating Center (DCC) is creating a cloud-based, open, digi
 %}
 
 NCATS studies translation on a system-wide level as a scientific and operational problem.
-TISLab convenes expert teams from diverse scientific disciplines — including, among others, efficacy, toxicity, data sharing, biomarkers and clinical application — to reduce, remove or bypass significant bottlenecks across the entire continuum of translation and to train the future translational science workforce.
+TISLab convenes expert teams from diverse scientific disciplines — including, among others, efficacy, toxicity, data sharing, biomarkers and clinical application — to reduce, remove or bypass significant bottlenecks across the entire continuum of translation and to train the future translational science workforce. 
 
-**Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
+**Contact:** [Matt Brush](mailto:matt@tislab.org)  
 **Funding:** NCATS grant # 3 OT3 TR002019 01S2
 
 {% include link.html type="home-page" link="https://ncats.nih.gov/translator/" icon="" text="" %}
@@ -181,16 +181,16 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {% include section.html %}
 
+# <i class="fas fa-microscope"></i>Past Research
+
+{% include section.html %}
+
 ### Environmental Health Sciences Vocabulary
 
 TISLab is laying the foundation for a new community-driven effort to build data standards for the environmental health sciences.
 
 **Contact:** [Anne Thessen](mailto:annethessen@gmail.com)  
 **Funding:** NIEHS
-
-{% include section.html %}
-
-# <i class="fas fa-microscope"></i>Past Research
 
 {% include section.html %}
 
