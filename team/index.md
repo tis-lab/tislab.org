@@ -18,8 +18,7 @@ Not only are we changing the world, we are also changing science itself.
 
 {% include list.html data="members" component="portrait" filters="tier: first" %}
 {% include list.html data="members" component="portrait" filters="tier: second" %}
-
-{% include list.html data="members" component="portrait" filters="tier: third %}
+{% include list.html data="members" component="portrait" filters="tier: third" %}
 {% include list.html data="members" component="portrait" filters="tier: fourth" %}
 {% include list.html data="members" component="portrait" filters="tier: " %}
 
