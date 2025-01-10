@@ -34,6 +34,10 @@ Monarch is a collaboration among members TISLab, Lawrence Berkeley National Labo
 
 {% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
 {% include link.html type="github" link="monarch-initiative" icon="" text="" %}
+{% include link.html type="medium" link="Monarch Initiative" icon="" text="" %} 
+{% include link.html type="youtube" link="channel/UCOL3fEnJ5SgkASDijXneB8g" icon="" text="" %} 
+{% include link.html type="linkedin" link="company/the-monarch-initiative" icon="" text="" %} 
+{% include link.html type="bluesky" link="monarchinitiative" icon="" text="" %} 
 {:.center}
 
 {% include section.html %}
@@ -57,6 +61,9 @@ This project forms the basis of a Center of Excellence in Genomic Science, a pro
 
 **Contact:** [Melissa Haendel](mhaendel@email.unc.edu)  
 **Funding:** NHGRI
+
+{% include link.html type="home-page" link="https://monarchinitiative.org/phenomics-first" icon="" text="" %}
+{:.center}
 
 {% include section.html %}
 
