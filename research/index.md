@@ -29,7 +29,7 @@ Through the CEGS project, scientists and physicians at four institutions in the 
 
 Monarch is a collaboration among members TISLab, Lawrence Berkeley National Laboratory, The Jackson Laboratory For Genomic Medicine, RTI International, Genomics England/Queen Mary, Ada Health, and EMBL-EBI
 
-**Contact:** [Melissa Haendel](mhaendel@email.unc.edu)
+**Contact:** [Melissa Haendel](mhaendel@email.unc.edu) <br>
 **Funding:** NIH grant # 1R24OD011883-01 and NHGRI 1RM1HG010860-01
 
 {% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
@@ -161,6 +161,19 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {% include link.html type="home-page" link="https://ncats.nih.gov/n3c/" icon="" text="" %}
 {% include link.html type="github" link="National-COVID-Cohort-Collaborative" icon="" text="" %}
+{:.center}
+
+{% include section.html %}
+
+### NHLBI BioData Catalyst® (BDC)
+
+The [NHLBI BioData Catalyst® (BDC)](https://biodatacatalyst.nhlbi.nih.gov/) is a cloud-based ecosystem that offers researchers data, analytic tools, applications, and workflows in secure workspaces. It is a community where researchers can find, access, share, store, and analyze heart, lung, blood, and sleep data resources. And it is one of NHLBI’s data repositories, where researchers share scientific data from NHLBI-funded research so they and others can reproduce findings and reuse data to advance science. By increasing access to NHLBI data and innovative analytic capabilities, BDC accelerates reproducible biomedical research to drive scientific advances that can help prevent, diagnose, and treat heart, lung, blood, and sleep disorders.
+TISLab, in collaboration with RTI International, is leading the Data Management Core (DMC) for BDC. The goal of DMC is to streamline the process of submitting, ingesting, and harmonizing data in BDC.
+
+**Contact:** [Anne Thessen](mailto:anne@tislab.org) <br>
+**Funding:** Funding is National Heart, Lung, and Blood Institute OT2HL167310
+
+{% include link.html type="home-page" link="https://biodatacatalyst.nhlbi.nih.gov/" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
