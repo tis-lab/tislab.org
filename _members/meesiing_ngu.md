@@ -1,6 +1,6 @@
 ---
 name: MeeSiing Ngu
-image: images/team/meesiing-ngu.jpg
+image: images/team/meesiing-ngu.png
 description: 
 links:
   orcid: 
