@@ -8,12 +8,12 @@ links:
     
 ---
 
-MeeSiing is a biocurator at TISLab. Her work focuses on ontology development for the Monarch Initiative and the creation of Zebrafish Toxicology Phenotype Atlas.
+MeeSiing is a biocurator at TISLab. Her work focuses on ontology development for the Monarch Initiative and creating the Zebrafish Toxicology Phenotype Atlas.
 
 ### Education
-B.Sc. Hons. Biology, The National University of Malaysia, Malaysia, 2004 <br>
-M.Sc. Genetics, The National University of Malaysia, Malaysia, 2007 <br>
-Ph.D. Genetics, The National University of Malaysia, Malaysia, 2012 
+- B.Sc. Hons. Biology, The National University of Malaysia, Malaysia, 2004 <br>
+- M.Sc. Genetics, The National University of Malaysia, Malaysia, 2007 <br>
+- Ph.D. Genetics, The National University of Malaysia, Malaysia, 2012 
 
 ### Department
 
