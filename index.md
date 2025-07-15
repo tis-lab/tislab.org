@@ -20,8 +20,12 @@ title: Home
 
 {% capture text %}
 Translational science breaks down traditional silos between discreet disciplines of science empowering innovation.
-On the front lines of this emerging field, TISLab applies these varied disciplines to the study of the data encoded on phenotypes to unlock new understanding and amplify discovery in areas such as rare disease diagnosis in both plants and humans, accelerated cancer research, and understanding the impact of exposures and other influences on health.
-This means that the research done in TISLab depends upon partnership and collaboration across multiple disciplines.
+<br> At the forefront of this emerging field, the Translational and Integrative Sciences Lab (TISLab) brings together domain experts to study phenotype data—information about observable traits—to unlock new insights. TISLab's work develops new understanding and amplifies discovery in areas such as rare disease diagnosis in both plants and humans, accelerates cancer research, and deepens our understanding of how exposures and other factors influence health.
+Because of its inherently cross-disciplinary nature, TISLab’s research thrives on collaboration and partnership.
+{% endcapture %}
+
+{% include link.html link="research" text="Learn More" style="button" %}
+{:.center}
 {% endcapture %}
 
 {%
