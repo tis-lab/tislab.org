@@ -24,9 +24,6 @@ Translational science breaks down traditional silos between discreet disciplines
 Because of its inherently cross-disciplinary nature, TISLab’s research thrives on collaboration and partnership.
 {% endcapture %}
 
-{% include link.html link="research" text="Learn More" style="button" %}
-{:.center}
-{% endcapture %}
 
 {%
   include feature.html
