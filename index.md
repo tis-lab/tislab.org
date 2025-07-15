@@ -20,7 +20,8 @@ title: Home
 
 {% capture text %}
 Translational science breaks down traditional silos between discreet disciplines of science empowering innovation.
-On the front lines of this emerging field, TISLab applies these varied disciplines to the study of the data encoded on phenotypes to unlock new understanding and amplify discovery in areas such as rare disease diagnosis in both plants and humans, accelerated cancer research, coping with climate change, and current pressing issues like COVID-19 and other viral threats.
+On the front lines of this emerging field, TISLab applies these varied disciplines to the study of the data encoded on phenotypes to unlock new understanding and amplify discovery in areas such as rare disease diagnosis in both plants and humans, accelerated cancer research, and understanding the impact of exposures and other influences on health.
+This means that the research done in TISLab depends upon partnership and collaboration across multiple disciplines.
 {% endcapture %}
 
 {%
@@ -29,28 +30,4 @@ On the front lines of this emerging field, TISLab applies these varied disciplin
   link="team"
   title="What is Translational Science?"
   text=text
-%}
-
-{% capture text %}
-TISLab is unique in that it focuses on unifying data across sources, disciplines and forms to make them informative for new kinds of translational questions.
-It brings together people and their data across extremely diverse disciplinary divides, leading advances in science that aim to:
-
-- Cope with Climate Change
-- Facilitate knowledge discovery for Covid-19
-- Improve Rare Disease Diagnosis and Treatment
-- Promote Healthy Lifestyles
-
-This means that the research done in TISLab depends upon partnership and collaboration across multiple disciplines.
-
-{% include link.html link="research" text="Learn More" style="button" %}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research/research.png"
-  link="research"
-  title="Our Research"
-  text=text
-  flip=true
 %}
