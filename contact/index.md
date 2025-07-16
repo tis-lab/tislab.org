@@ -45,8 +45,6 @@ Are you passionate about cutting-edge research and making a real impact in scien
 - **Collaborative Environment:** Engage with diverse minds and experts in their fields.
 - **Career Growth:** Opportunities for professional development and learning.
 
-**Apply now! Current Postings:**
-- [Research Associate - Biocurator 2](https://unc.peopleadmin.com/postings/290540)
 
 **Upcoming Openings - Stay Tuned:**
 - Semantic Software Engineer
