@@ -20,4 +20,4 @@ Madan is a Semantic Engineer at TISLab. His primary research and work endeavors 
 
 ### Department
 
-[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+[University of North Carolina, Chapel Hill Department of Genetics](https://www.med.unc.edu/genetics)
