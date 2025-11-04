@@ -201,8 +201,8 @@ This project is a collaboration with Alexa Burger’s team at the University of 
   width="400px"
 %}
 
-LinkML (Linked data Modeling Language; linkml.io) is an open, extensible modeling framework that allows computers and people to work cooperatively to model, validate, and distribute data that is reusable and interoperable. It is designed to create interoperable data from the start without the overhead normally required for doing this. 
-The LinkML user-requested features that will be addressed by this funding request are: 
+LinkML (Linked data Modeling Language) is an open, extensible modeling framework that allows computers and people to work cooperatively to model, validate, and distribute data that is reusable and interoperable. It is designed to create interoperable data from the start without the overhead normally required for doing this. 
+The LinkML user-requested features that will be addressed by this funding are: 
 1. Support our growing open-source developer community (SUPPORT)
 2. Lower the bar to creating LinkML models (CREATE)
 3. Extend model transformations (EXTEND)
