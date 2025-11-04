@@ -178,6 +178,21 @@ TISLab, in collaboration with RTI International, is leading the Data Management 
 
 {% include section.html %}
 
+### Advancing a Community-led Zebrafish Toxicology Phenotype Atlas (ZAPP)
+
+Zebrafish have greatly advanced toxicology and environmental studies as a valuable animal model because they are easy to manipulate, breed, and observe during development. However, the absence of universal standards significantly impedes scientific progress and, therefore, human and environmental health.
+<br> In this project, we develop standard ontologies and data models to improve data compatibility within and across species and domains. We create a toolkit allowing community members to annotate their phenotypic data, mainly created through toxicological assays, to generate “born-interoperable” data.
+Finally, we create a zebrafish phenotype atlas web application. This atlas serves as a visual definition of the standards and their documentation for examining variations of specific phenotypes by laboratories in the community. Users will be able to explore and query toxicological exposures and phenotypes of interest and see example images demonstrating the phenotypes. 
+This project is a collaboration with Alexa Burger’s team at the University of Colorado Anschutz Medical Campus, and  community-governed by diverse stakeholders in toxicology and environmental health sciences. 
+
+**Contact:** [Sabrina Toro](sabrina@tislab.org) <br>
+**Funding:** Funding is NIEHS - R24ES036130
+
+{% include link.html type="home-page" link="[https://biodatacatalyst.nhlbi.nih.gov/](https://zappfish.org/)" icon="" text="" %}
+{:.center}
+
+{% include section.html %}
+
 # <i class="fas fa-microscope"></i>Past Research
 
 {% include section.html %}
