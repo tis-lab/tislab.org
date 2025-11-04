@@ -197,7 +197,7 @@ This project is a collaboration with Alexa Burger’s team at the University of 
 
 {%
   include figure.html
-  image="images/research/linkml.png"
+  image="images/research/linkml-logo_color.png"
   width="400px"
 %}
 
@@ -210,7 +210,7 @@ The LinkML user-requested features that will be addressed by this funding reques
 **Contact:** [Matt Brush](matt@tislab.org) <br>
 **Funding:** Funding is Chan Zuckerberg Initiative CZI 313291/Z/24/Z
 
-{% include link.html type="home-page" link="https://zappfish.org/" icon="" text="" %}
+{% include link.html type="home-page" link="https://linkml.io/" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
