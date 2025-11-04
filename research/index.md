@@ -188,7 +188,7 @@ This project is a collaboration with Alexa Burger’s team at the University of 
 **Contact:** [Sabrina Toro](sabrina@tislab.org) <br>
 **Funding:** Funding is NIEHS - R24ES036130
 
-{% include link.html type="home-page" link="[https://biodatacatalyst.nhlbi.nih.gov/](https://zappfish.org/)" icon="" text="" %}
+{% include link.html type="home-page" link="https://zappfish.org/" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
