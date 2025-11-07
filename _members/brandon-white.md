@@ -1,7 +1,7 @@
 ---
 name: Brandon White
 image: images/team/brandon-white.png
-description: Business Services Senior Professional
+description: Research Program Coordinator
 ---
 
 Brandon White joined the Translational and Integrative Sciences Lab in 2018, and currently serves as a Business Services Senior Professional.
