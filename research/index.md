@@ -79,30 +79,6 @@ The All of Us Center for Linkage and Acquisition of Data (CLAD) expands the type
 
 {% include section.html %}
 
-### Gabriella Miller Kids First Pediatric Data Resource Center
-
-{%
-  include figure.html
-  image="images/research/kids-first.png"
-  width="400px"
-%}
-
-TISLab is fighting pediatric cancer by supporting The Kids First Data Resource Portal, one of the largest collections of integrated genomic and clinical data for some childhood diseases, which previously were studied largely in isolation.
-Kids First brings together heterogeneous data from childhood cancers and structural birth defects to support research, study, and collaboration built on top of an unprecedented collection of genetic and phenotypic data from pediatric patients.
-The data in the Data Resource Portal is curated and structured using biomedical ontologies, including the Human Phenotype Ontology (HPO) and Mondo Disease Ontology to allow for query and retrieval of symptoms, findings and disease features across the cohorts.
-Additional work is being done in collaboration with the INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) project to augment the Kids First Data Resource Center’s ability to integrate survey data for assessment of Down Syndrome-related clinical data and neurobehavior.
-
-**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
-**Funding:** NIH grant # 5U2CHL138346 and The Kids First supplement is funded by NIH grant # 3200670520-03S1
-
-{% include link.html type="home-page" link="https://kidsfirstdrc.org/" icon="" text="" %}
-{% include link.html type="github" link="kids-first" icon="" text="" %}
-{% include link.html type="youtube" link="channel/UCK9sPu0j4_ci4m3nNFa6gVw" icon="" text="" %}
-{% include link.html type="facebook" link="kidsfirstDRC" icon="" text="" %}
-{:.center}
-
-{% include section.html %}
-
 ### INCLUDE Data Coordinating Center
 
 {%
@@ -185,7 +161,7 @@ Zebrafish have greatly advanced toxicology and environmental studies as a valuab
 Finally, we create a zebrafish phenotype atlas web application. This atlas serves as a visual definition of the standards and their documentation for examining variations of specific phenotypes by laboratories in the community. Users will be able to explore and query toxicological exposures and phenotypes of interest and see example images demonstrating the phenotypes. 
 This project is a collaboration with Alexa Burger’s team at the University of Colorado Anschutz Medical Campus, and  community-governed by diverse stakeholders in toxicology and environmental health sciences. 
 
-**Contact:** [Sabrina Toro](sabrina@tislab.org) <br>
+**Contact:** [Sabrina Toro](mailto:sabrina@tislab.org) <br>
 **Funding:** Funding is NIEHS - R24ES036130
 
 {% include link.html type="home-page" link="https://zappfish.org/" icon="" text="" %}
@@ -207,7 +183,7 @@ The LinkML user-requested features that will be addressed by this funding are:
 2. Lower the bar to creating LinkML models (CREATE)
 3. Extend model transformations (EXTEND)
 
-**Contact:** [Matt Brush](matt@tislab.org) <br>
+**Contact:** [Matt Brush](mailto:matt@tislab.org) <br>
 **Funding:** Funding is Chan Zuckerberg Initiative CZI 313291/Z/24/Z
 
 {% include link.html type="home-page" link="https://linkml.io/" icon="" text="" %}
@@ -217,6 +193,29 @@ The LinkML user-requested features that will be addressed by this funding are:
 
 
 # <i class="fas fa-microscope"></i>Past Research
+
+### Gabriella Miller Kids First Pediatric Data Resource Center
+
+{%
+  include figure.html
+  image="images/research/kids-first.png"
+  width="400px"
+%}
+
+TISLab is fighting pediatric cancer by supporting The Kids First Data Resource Portal, one of the largest collections of integrated genomic and clinical data for some childhood diseases, which previously were studied largely in isolation.
+Kids First brings together heterogeneous data from childhood cancers and structural birth defects to support research, study, and collaboration built on top of an unprecedented collection of genetic and phenotypic data from pediatric patients.
+The data in the Data Resource Portal is curated and structured using biomedical ontologies, including the Human Phenotype Ontology (HPO) and Mondo Disease Ontology to allow for query and retrieval of symptoms, findings and disease features across the cohorts.
+Additional work is being done in collaboration with the INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) project to augment the Kids First Data Resource Center’s ability to integrate survey data for assessment of Down Syndrome-related clinical data and neurobehavior.
+
+**Contact:** [Nicole Vasilevsky](mailto:nicole@tislab.org)  
+**Funding:** NIH grant # 5U2CHL138346 and The Kids First supplement is funded by NIH grant # 3200670520-03S1
+
+{% include link.html type="home-page" link="https://kidsfirstdrc.org/" icon="" text="" %}
+{% include link.html type="github" link="kids-first" icon="" text="" %}
+{% include link.html type="youtube" link="channel/UCK9sPu0j4_ci4m3nNFa6gVw" icon="" text="" %}
+{% include link.html type="facebook" link="kidsfirstDRC" icon="" text="" %}
+{:.center}
+
 
 {% include section.html %}
 
