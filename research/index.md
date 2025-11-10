@@ -193,6 +193,29 @@ This project is a collaboration with Alexa Burger’s team at the University of 
 
 {% include section.html %}
 
+### LinkML: an open data modeling framework
+
+{%
+  include figure.html
+  image="images/research/linkml-logo_color.png"
+  width="400px"
+%}
+
+LinkML (Linked data Modeling Language) is an open, extensible modeling framework that allows computers and people to work cooperatively to model, validate, and distribute data that is reusable and interoperable. It is designed to create interoperable data from the start without the overhead normally required for doing this. 
+The LinkML user-requested features that will be addressed by this funding are: 
+1. Support our growing open-source developer community (SUPPORT)
+2. Lower the bar to creating LinkML models (CREATE)
+3. Extend model transformations (EXTEND)
+
+**Contact:** [Matt Brush](matt@tislab.org) <br>
+**Funding:** Funding is Chan Zuckerberg Initiative CZI 313291/Z/24/Z
+
+{% include link.html type="home-page" link="https://linkml.io/" icon="" text="" %}
+{:.center}
+
+{% include section.html %}
+
+
 # <i class="fas fa-microscope"></i>Past Research
 
 {% include section.html %}
