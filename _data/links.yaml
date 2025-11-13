@@ -92,6 +92,19 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$LINK
 
+medium:
+  icon: fab fa-medium
+  text: Medium
+  tooltip: Medium
+  link: https://$LINK.medium.com/
+
+linkedin-company:
+  icon: fab fa-linkedin
+  text: LinkedIn
+  tooltip: LinkedIn
+  link: https://www.linkedin.com/company/$LINK
+
+
 # publications
 
 journal:

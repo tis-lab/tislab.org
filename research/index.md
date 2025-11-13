@@ -34,6 +34,9 @@ Monarch is a collaboration among members TISLab, Lawrence Berkeley National Labo
 
 {% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
 {% include link.html type="github" link="monarch-initiative" icon="" text="" %}
+{% include link.html type="medium" link="monarchinit" icon="" text="" %}
+{% include link.html type="youtube" link="@monarchinitiative" icon="" text="" %}
+{% include link.html type="linkedin-company" link="the-monarch-initiative" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
