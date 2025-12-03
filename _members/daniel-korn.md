@@ -11,7 +11,7 @@ links:
 Daniel is a PhD biomedical researcher, pursuing the intersection of statistics, databases, and biomedical informations. Their primary research topics are conceptual modeling and knowledge graphs, finding novel methods for predicting biological interactions.
 
 ### Education
-- PhD, Computer Science: Concentration in Biomedical Data Science, University of North Carolina, Chapel Hill, 2016
+- PhD, Computer Science: Concentration in Biomedical Data Science, University of North Carolina, Chapel Hill, 2022
 - BS, Mathematics, University of North Carolina, Chapel Hill, 2016
 - BS, Computer Science, University of North Carolina, Chapel Hill, 2016
 
