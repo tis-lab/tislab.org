@@ -1,6 +1,6 @@
 ---
 name: Daniel Korn
-image: images/team/daniel-korn.JPG
+image: images/team/daniel-korn.jpg
 description: Staff Scientist
 links:
   orcid: 0000-0002-1780-9872
