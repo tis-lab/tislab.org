@@ -4,6 +4,10 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "webrick", "~> 1.7"
 
+# Required for Ruby 3.4+ where these were removed from the default gemset
+gem "csv"
+gem "logger"
+
 # plugins
 group :jekyll_plugins do
   gem "jekyll-redirect-from"
