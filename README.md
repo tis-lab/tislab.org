@@ -7,4 +7,4 @@ See its documentation on how to work with this site.
 
 ## Editors guide
 
-See: [https://github.com/greenelab/lab-website-template/wiki](https://github.com/greenelab/lab-website-template/wiki) for documentation.
+See: [https://github.com/greenelab/lab-website-template/wiki](https://github.com/greenelab/lab-website-template/wiki)
