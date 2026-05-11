@@ -5,6 +5,7 @@ gem "jekyll"
 gem "webrick", "~> 1.7"
 
 # Required for Ruby 3.4+ where these were removed from the default gemset
+gem "base64"
 gem "csv"
 gem "logger"
 
