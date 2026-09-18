@@ -1,6 +1,6 @@
 ---
 name: Christopher Smith
-image: images/team/christopher_smith.jpg
+image: images/team/christopher-smith.jpg
 description: PhD Student
 links:
   email: cws99@unc.edu
