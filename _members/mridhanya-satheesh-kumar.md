@@ -3,6 +3,7 @@ name: Mridhanya Satheesh Kumar
 image: images/team/mridhanya-satheesh-kumar.jpg
 description: IT Analyst/Programmer-3
 links:
+  orcid: 0009-0008-1271-4082
   github: MridhanyaSatheeshKumar
   linkedin: mridhanya2002
 ---
@@ -14,7 +15,7 @@ Mridhanya is an IT Analyst/Programmer-3 with TISLab at the University of North C
 ### Education
 
 - MHI Master of Health Informatics, University of Michigan, Ann Arbor, MI, 2025
-- BTECH Bachelor of Technology, PSG College of Technology, India, 2019
+- BTECH Information Technology, PSG College of Technology, India, 2023
 
 ### Department
 
