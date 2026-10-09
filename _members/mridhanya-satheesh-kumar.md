@@ -1,7 +1,7 @@
 ---
 name: Mridhanya Satheesh Kumar
 image: images/team/mridhanya-satheesh-kumar.jpg
-description: IT Analyst/Programmer-3
+description: Scientific Software Engineer
 links:
   orcid: 0009-0008-1271-4082
   github: MridhanyaSatheeshKumar
@@ -10,7 +10,7 @@ links:
 
 ### Bio
 
-Mridhanya is an IT Analyst/Programmer-3 with TISLab at the University of North Carolina Chapel Hill's Department of Genetics. Mridhanya developed an automated LOINC mapping tool for the HL7 FHIR community and is passionate about precision health, healthcare data interoperability, and advancing data-driven approaches to biomedical research. Previously worked across healthcare RCM, hospitals, and digital health startups, with experience in health data standards, interoperability, and data-driven solutions.
+Mridhanya is a Scientific Software Engineer with TISLab at the University of North Carolina Chapel Hill's Department of Genetics. Mridhanya developed an automated LOINC mapping tool for the HL7 FHIR community and is passionate about precision health, healthcare data interoperability, and advancing data-driven approaches to biomedical research. Previously worked across healthcare RCM, hospitals, and digital health startups, with experience in health data standards, interoperability, and data-driven solutions.
 
 ### Education
 
