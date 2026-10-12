@@ -1,6 +1,6 @@
 ---
 name: Christopher Dunstan
-image: images/team/christopher-dunstan.jpg
+image: images/team/christopher-dunstan.png
 description: Postdoctoral Fellow 
 links:
   linkedin: https://www.linkedin.com/in/christopher-d-23043484/
